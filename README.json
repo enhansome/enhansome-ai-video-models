@@ -1,0 +1,239 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open-Generative-AI",
+          "description": "curated hub of open generative-media tools and pipelines",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T15:22:38Z",
+            "owner": "Anil-matcha",
+            "repo": "Open-Generative-AI",
+            "stars": 26233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ai-creator-academy",
+          "description": "free curriculum teaching creators how to monetize the models compared in this list",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-02T09:36:35Z",
+            "owner": "Anil-matcha",
+            "repo": "ai-creator-academy",
+            "stars": 1931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text-To-Video-AI",
+          "description": "generate a finished video from a text prompt end-to-end",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-02T09:37:09Z",
+            "owner": "SamurAIGPT",
+            "repo": "Text-To-Video-AI",
+            "stars": 802
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open-AI-Micro-Drama-Generator",
+          "description": "multi-scene AI micro-drama pipeline",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T09:36:28Z",
+            "owner": "Anil-matcha",
+            "repo": "Open-AI-Micro-Drama-Generator",
+            "stars": 455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seedance-2-API",
+          "description": "Python wrapper for ByteDance Seedance 2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T11:21:30Z",
+            "owner": "Anil-matcha",
+            "repo": "Seedance-2-API",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-seedance-2.5-api-prompts",
+          "description": "prompt library for Seedance 2.5",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-09T10:24:03Z",
+            "owner": "Anil-matcha",
+            "repo": "awesome-seedance-2.5-api-prompts",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flux-3-Dev-API",
+          "description": "Python wrapper for Black Forest Labs' FLUX 3 (Dev variant) — text-to-image, image-to-image, text-to-video, image-to-video",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T14:08:38Z",
+            "owner": "Anil-matcha",
+            "repo": "Flux-3-Dev-API",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-flux-3-api-prompts",
+          "description": "FLUX 3 API guide, prompts, and parameters",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-26T07:52:37Z",
+            "owner": "Anil-matcha",
+            "repo": "awesome-flux-3-api-prompts",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wan-3.0-API",
+          "description": "Python SDK and MCP server for Wan 3.0-compatible video generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T18:28:15Z",
+            "owner": "Anil-matcha",
+            "repo": "Wan-3.0-API",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MiniMax-H3-API",
+          "description": "Python SDK for MiniMax H3 text-to-video, image-to-video, and first/last-frame video generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T07:03:54Z",
+            "owner": "Anil-matcha",
+            "repo": "MiniMax-H3-API",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Veo-4-API",
+          "description": "Python wrapper for Google Veo 4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T09:36:30Z",
+            "owner": "Anil-matcha",
+            "repo": "Veo-4-API",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-minimax-h3-prompts",
+          "description": "Prompt gallery with runnable MiniMax H3 video examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T07:03:43Z",
+            "owner": "Anil-matcha",
+            "repo": "awesome-minimax-h3-prompts",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-uncensored-ai-video-models",
+          "description": "Filtering-, access-, and licensing-focused companion catalog for local and hosted video model variants",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-05T20:13:29Z",
+            "owner": "Anil-matcha",
+            "repo": "awesome-uncensored-ai-video-models",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wan-3.0-comfyui",
+          "description": "ComfyUI custom nodes for Wan 3.0 text-to-image, image edit, text-to-video, and image-to-video via MuAPI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T18:27:57Z",
+            "owner": "Anil-matcha",
+            "repo": "wan-3.0-comfyui",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Related Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Commercial models (closed, API-only)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Open-source models (self-host or API)"
+    },
+    {
+      "description": "Portrait/presenter video from a photo or actor + script. These bill by subscription or per-minute credits (not per-second like the raw generators), so the pricing column names the model, not a rate.\nOpen-source alternatives: OmniHuman-1, LivePortrait, EchoMimicV2, MuseTalk, OmniAvatar (self-host, see repos).",
+      "items": [],
+      "title": "Avatar & talking-head models"
+    },
+    {
+      "description": "Post-process generated (or real) footage — upscale, interpolate, denoise.",
+      "items": [],
+      "title": "Video upscaling & enhancement"
+    },
+    {
+      "description": "PRs welcome. When adding a model, keep the table columns filled — a row without provider + price + speed isn't useful. New models go in the correct table (commercial vs open-source) and stay sorted by relevance.\nMaintained alongside Open-Generative-AI. Found it useful? ⭐ the repo.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:00:04.115Z",
+    "original_repository": "Anil-matcha/awesome-ai-video-models",
+    "original_repository_sha": "0b1e79d0eda08d1333bd795298146e66a0473214",
+    "enhanced_repository": "enhansome/enhansome-ai-video-models",
+    "enhanced_repository_description": null,
+    "title": "Awesome AI Video Models with stars"
+  }
+}
