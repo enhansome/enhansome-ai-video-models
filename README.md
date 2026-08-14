@@ -8,13 +8,13 @@ Unlike other lists that just dump links, this one answers the question developer
 
 ## Related Projects
 
-* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 26,233 | 🐛 31 | 🌐 JavaScript | 📅 2026-08-13 — curated hub of open generative-media tools and pipelines
-* [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 1,931 | 🐛 0 | 📅 2026-08-02 — free curriculum teaching creators how to monetize the models compared in this list
-* [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) ⭐ 802 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-08-02 — generate a finished video from a text prompt end-to-end
-* [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) ⭐ 455 | 🐛 1 | 🌐 Python | 📅 2026-08-02 — multi-scene AI micro-drama pipeline
+* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 26,315 | 🐛 32 | 🌐 JavaScript | 📅 2026-08-14 — curated hub of open generative-media tools and pipelines
+* [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 1,934 | 🐛 0 | 📅 2026-08-02 — free curriculum teaching creators how to monetize the models compared in this list
+* [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) ⭐ 803 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-08-02 — generate a finished video from a text prompt end-to-end
+* [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) ⭐ 454 | 🐛 1 | 🌐 Python | 📅 2026-08-02 — multi-scene AI micro-drama pipeline
 * [Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) ⭐ 341 | 🐛 2 | 🌐 Python | 📅 2026-08-03 — Python wrapper for ByteDance Seedance 2
-* [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) ⭐ 290 | 🐛 4 | 📅 2026-08-09 — prompt library for Seedance 2.5
-* [Flux-3-Dev-API](https://github.com/Anil-matcha/Flux-3-Dev-API) ⭐ 179 | 🐛 3 | 🌐 Python | 📅 2026-08-08 — Python wrapper for Black Forest Labs' FLUX 3 (Dev variant) — text-to-image, image-to-image, text-to-video, image-to-video
+* [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) ⭐ 291 | 🐛 4 | 📅 2026-08-09 — prompt library for Seedance 2.5
+* [Flux-3-Dev-API](https://github.com/Anil-matcha/Flux-3-Dev-API) ⭐ 180 | 🐛 3 | 🌐 Python | 📅 2026-08-08 — Python wrapper for Black Forest Labs' FLUX 3 (Dev variant) — text-to-image, image-to-image, text-to-video, image-to-video
 * [awesome-flux-3-api-prompts](https://github.com/Anil-matcha/awesome-flux-3-api-prompts) ⭐ 144 | 🐛 1 | 📅 2026-07-26 — FLUX 3 API guide, prompts, and parameters
 * [Wan-3.0-API](https://github.com/Anil-matcha/Wan-3.0-API) ⭐ 72 | 🐛 0 | 🌐 Python | 📅 2026-08-06 — Python SDK and MCP server for Wan 3.0-compatible video generation.
 * [MiniMax-H3-API](https://github.com/Anil-matcha/MiniMax-H3-API) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2026-08-03 — Python SDK for MiniMax H3 text-to-video, image-to-video, and first/last-frame video generation.
@@ -143,8 +143,8 @@ PRs welcome. When adding a model, keep the table columns filled — **a row with
 
 ***
 
-*Maintained alongside [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 26,233 | 🐛 31 | 🌐 JavaScript | 📅 2026-08-13. Found it useful? ⭐ the repo.*
+*Maintained alongside [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 26,315 | 🐛 32 | 🌐 JavaScript | 📅 2026-08-14. Found it useful? ⭐ the repo.*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
