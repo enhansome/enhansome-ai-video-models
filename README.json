@@ -14,7 +14,7 @@
             "last_commit": "2026-08-15T08:44:51Z",
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 26374
+            "stars": 26455
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-02T09:36:35Z",
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 1938
+            "stars": 1941
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-02T09:37:09Z",
             "owner": "SamurAIGPT",
             "repo": "Text-To-Video-AI",
-            "stars": 802
+            "stars": 803
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-02T09:36:28Z",
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 453
+            "stars": 454
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-09T10:24:03Z",
             "owner": "Anil-matcha",
             "repo": "awesome-seedance-2.5-api-prompts",
-            "stars": 294
+            "stars": 297
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-08-08T14:08:38Z",
             "owner": "Anil-matcha",
             "repo": "Flux-3-Dev-API",
-            "stars": 180
+            "stars": 181
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-06T18:28:15Z",
             "owner": "Anil-matcha",
             "repo": "Wan-3.0-API",
-            "stars": 72
+            "stars": 73
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-08-15T08:41:02Z",
             "owner": "Anil-matcha",
             "repo": "MiniMax-H3-API",
-            "stars": 46
+            "stars": 47
           }
         },
         {
@@ -168,21 +168,7 @@
             "last_commit": "2026-08-15T08:41:00Z",
             "owner": "Anil-matcha",
             "repo": "awesome-minimax-h3-prompts",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-uncensored-ai-video-models",
-          "description": "Filtering-, access-, and licensing-focused companion catalog for local and hosted video model variants",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-05T20:13:29Z",
-            "owner": "Anil-matcha",
-            "repo": "awesome-uncensored-ai-video-models",
-            "stars": 2
+            "stars": 8
           }
         },
         {
@@ -196,6 +182,20 @@
             "last_commit": "2026-08-06T18:27:57Z",
             "owner": "Anil-matcha",
             "repo": "wan-3.0-comfyui",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-uncensored-ai-video-models",
+          "description": "Filtering-, access-, and licensing-focused companion catalog for local and hosted video model variants",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-05T20:13:29Z",
+            "owner": "Anil-matcha",
+            "repo": "awesome-uncensored-ai-video-models",
             "stars": 2
           }
         }
@@ -229,7 +229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T15:22:00.128Z",
+    "last_updated": "2026-08-16T15:22:50.777Z",
     "original_repository": "Anil-matcha/awesome-ai-video-models",
     "original_repository_sha": "0b1e79d0eda08d1333bd795298146e66a0473214",
     "enhanced_repository": "enhansome/enhansome-ai-video-models",
