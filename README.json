@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T08:44:51Z",
+            "last_commit": "2026-08-17T10:58:29Z",
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 26455
+            "stars": 26542
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-02T09:36:35Z",
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 1941
+            "stars": 1943
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-02T09:37:09Z",
             "owner": "SamurAIGPT",
             "repo": "Text-To-Video-AI",
-            "stars": 803
+            "stars": 804
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-02T09:36:28Z",
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 454
+            "stars": 455
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-09T10:24:03Z",
             "owner": "Anil-matcha",
             "repo": "awesome-seedance-2.5-api-prompts",
-            "stars": 297
+            "stars": 300
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-08-08T14:08:38Z",
             "owner": "Anil-matcha",
             "repo": "Flux-3-Dev-API",
-            "stars": 181
+            "stars": 182
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-06T18:28:15Z",
             "owner": "Anil-matcha",
             "repo": "Wan-3.0-API",
-            "stars": 73
+            "stars": 75
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2026-08-06T18:27:57Z",
             "owner": "Anil-matcha",
             "repo": "wan-3.0-comfyui",
-            "stars": 3
+            "stars": 4
           }
         },
         {
@@ -229,7 +229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:22:50.777Z",
+    "last_updated": "2026-08-17T15:26:29.686Z",
     "original_repository": "Anil-matcha/awesome-ai-video-models",
     "original_repository_sha": "0b1e79d0eda08d1333bd795298146e66a0473214",
     "enhanced_repository": "enhansome/enhansome-ai-video-models",
