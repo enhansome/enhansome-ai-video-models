@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T10:58:29Z",
+            "last_commit": "2026-08-18T04:14:49Z",
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 26542
+            "stars": 26622
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-02T09:36:35Z",
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 1943
+            "stars": 1949
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-02T09:36:28Z",
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 455
+            "stars": 457
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-09T10:24:03Z",
             "owner": "Anil-matcha",
             "repo": "awesome-seedance-2.5-api-prompts",
-            "stars": 300
+            "stars": 302
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-08-15T08:41:02Z",
             "owner": "Anil-matcha",
             "repo": "MiniMax-H3-API",
-            "stars": 47
+            "stars": 48
           }
         },
         {
@@ -229,7 +229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T15:26:29.686Z",
+    "last_updated": "2026-08-18T15:32:50.672Z",
     "original_repository": "Anil-matcha/awesome-ai-video-models",
     "original_repository_sha": "0b1e79d0eda08d1333bd795298146e66a0473214",
     "enhanced_repository": "enhansome/enhansome-ai-video-models",
