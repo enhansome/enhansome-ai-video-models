@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T11:29:40Z",
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 26666
+            "stars": 26673
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-02T09:37:09Z",
             "owner": "SamurAIGPT",
             "repo": "Text-To-Video-AI",
-            "stars": 805
+            "stars": 806
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-06T18:28:15Z",
             "owner": "Anil-matcha",
             "repo": "Wan-3.0-API",
-            "stars": 75
+            "stars": 76
           }
         },
         {
@@ -218,7 +218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:15:53.777Z",
+    "last_updated": "2026-08-19T15:32:30.514Z",
     "original_repository": "Anil-matcha/awesome-ai-video-models",
     "original_repository_id": 662620443,
     "original_repository_sha": "0b1e79d0eda08d1333bd795298146e66a0473214",
