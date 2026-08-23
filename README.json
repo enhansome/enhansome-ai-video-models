@@ -12,10 +12,10 @@
             "archived": false,
             "id": 638513786,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T21:47:52Z",
+            "last_commit": "2026-08-23T09:47:34Z",
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 26826
+            "stars": 26893
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T10:44:13Z",
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 1961
+            "stars": 1966
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-02T09:37:09Z",
             "owner": "SamurAIGPT",
             "repo": "Text-To-Video-AI",
-            "stars": 811
+            "stars": 812
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-02T09:36:28Z",
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 463
+            "stars": 467
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-08-20T12:54:08Z",
             "owner": "Anil-matcha",
             "repo": "Video-Utilities-API",
-            "stars": 1
+            "stars": 2
           }
         }
       ],
@@ -233,7 +233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:22:04.224Z",
+    "last_updated": "2026-08-23T15:23:53.929Z",
     "original_repository": "Anil-matcha/awesome-ai-video-models",
     "original_repository_id": 662620443,
     "original_repository_sha": "03b5fbe9d5e44e034501c2b6f62bc6093eab007b",
