@@ -18,8 +18,8 @@ Unlike other lists that just dump links, this one answers the question developer
 
 ## Related Projects
 
-* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 27,063 | 🐛 31 | 🌐 JavaScript | 📅 2026-08-24 — curated hub of open generative-media tools and pipelines
-* [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 1,971 | 🐛 0 | 📅 2026-08-21 — free curriculum teaching creators how to monetize the models compared in this list
+* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 27,094 | 🐛 31 | 🌐 JavaScript | 📅 2026-08-24 — curated hub of open generative-media tools and pipelines
+* [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 1,972 | 🐛 0 | 📅 2026-08-21 — free curriculum teaching creators how to monetize the models compared in this list
 * [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) ⭐ 815 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-08-24 — generate a finished video from a text prompt end-to-end
 * [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) ⭐ 468 | 🐛 1 | 🌐 Python | 📅 2026-08-02 — multi-scene AI micro-drama pipeline
 * [Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) ⭐ 341 | 🐛 1 | 🌐 Python | 📅 2026-08-03 — Python wrapper for ByteDance Seedance 2
@@ -159,7 +159,7 @@ PRs welcome. When adding a model, keep the table columns filled — **a row with
 
 ***
 
-*Maintained alongside [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 27,063 | 🐛 31 | 🌐 JavaScript | 📅 2026-08-24. Found it useful? ⭐ the repo.*
+*Maintained alongside [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 27,094 | 🐛 31 | 🌐 JavaScript | 📅 2026-08-24. Found it useful? ⭐ the repo.*
 
 ***
 
