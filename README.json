@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T12:02:28Z",
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 27094
+            "stars": 27180
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T10:44:13Z",
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 1972
+            "stars": 1975
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T10:56:42Z",
             "owner": "SamurAIGPT",
             "repo": "Text-To-Video-AI",
-            "stars": 815
+            "stars": 814
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-02T09:36:28Z",
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 468
+            "stars": 470
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-03T11:21:30Z",
             "owner": "Anil-matcha",
             "repo": "Seedance-2-API",
-            "stars": 341
+            "stars": 342
           }
         },
         {
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 848220364,
             "language": "Python",
-            "last_commit": "2026-08-24T08:06:58Z",
+            "last_commit": "2026-08-25T17:44:58Z",
             "owner": "Anil-matcha",
             "repo": "Wan-3.0-API",
             "stars": 76
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 1323231325,
             "language": "Python",
-            "last_commit": "2026-08-24T08:11:11Z",
+            "last_commit": "2026-08-25T17:45:19Z",
             "owner": "Anil-matcha",
             "repo": "wan-3.0-comfyui",
             "stars": 4
@@ -215,6 +215,21 @@
         },
         {
           "node_type": "item",
+          "title": "Wan-3.0-Prime-API",
+          "description": "Python SDK and MCP server for the higher-fidelity Wan 3.0 Prime tier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1346444794,
+            "language": "Python",
+            "last_commit": "2026-08-25T17:44:15Z",
+            "owner": "Anil-matcha",
+            "repo": "Wan-3.0-Prime-API",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Video-Utilities-API",
           "description": "compare Muapi video upscaling and video-to-audio post-production endpoints.",
           "children": [],
@@ -233,10 +248,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:42:51.040Z",
+    "last_updated": "2026-08-26T16:18:44.082Z",
     "original_repository": "Anil-matcha/awesome-ai-video-models",
     "original_repository_id": 662620443,
-    "original_repository_sha": "03b5fbe9d5e44e034501c2b6f62bc6093eab007b",
+    "original_repository_sha": "27e5c6377ba6dd7426141366226ab6c4c7b0f91f",
     "enhanced_repository": "enhansome/enhansome-ai-video-models",
     "enhanced_repository_description": null,
     "title": "Awesome AI Video Models with stars"
