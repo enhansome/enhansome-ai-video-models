@@ -12,10 +12,10 @@
             "archived": false,
             "id": 638513786,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T12:02:28Z",
+            "last_commit": "2026-08-27T17:22:22Z",
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 27222
+            "stars": 27260
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T10:44:13Z",
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 1977
+            "stars": 1980
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-02T09:36:28Z",
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 470
+            "stars": 471
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-09T10:24:03Z",
             "owner": "Anil-matcha",
             "repo": "awesome-seedance-2.5-api-prompts",
-            "stars": 311
+            "stars": 313
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-08-25T17:45:19Z",
             "owner": "Anil-matcha",
             "repo": "wan-3.0-comfyui",
-            "stars": 4
+            "stars": 5
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-05T20:13:29Z",
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-video-models",
-            "stars": 3
+            "stars": 4
           }
         },
         {
@@ -242,23 +242,38 @@
             "repo": "Video-Utilities-API",
             "stars": 2
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Gemini-Omni-1.1-Flash-API",
+          "description": "Python SDK and MCP server for Google's newly announced Gemini Omni 1.1 Flash update.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1348713057,
+            "language": "Python",
+            "last_commit": "2026-08-27T16:36:09Z",
+            "owner": "Anil-matcha",
+            "repo": "Gemini-Omni-1.1-Flash-API",
+            "stars": 1
+          }
         }
       ],
       "title": "Related Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:19:04.650Z",
+    "last_updated": "2026-08-28T00:16:38.411Z",
     "original_repository_info": {
       "archived": false,
       "id": 662620443,
       "language": null,
-      "last_commit": "2026-08-25T17:45:41Z",
+      "last_commit": "2026-08-27T16:37:44Z",
       "owner": "Anil-matcha",
       "repo": "awesome-ai-video-models",
-      "stars": 186
+      "stars": 187
     },
-    "original_repository_sha": "27e5c6377ba6dd7426141366226ab6c4c7b0f91f",
+    "original_repository_sha": "8dca2ac62d2d97c16e104630a3631345d27f290b",
     "enhanced_repository": "enhansome/enhansome-ai-video-models",
     "enhanced_repository_description": null,
     "title": "Awesome AI Video Models with stars"
