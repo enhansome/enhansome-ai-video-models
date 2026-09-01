@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-29T06:45:15Z",
-            "open_issues": 30,
+            "open_issues": 31,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 27485,
+            "stars": 27531,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 1985,
+            "stars": 1986,
             "topics": [
               "ai",
               "ai-agents",
@@ -103,7 +103,7 @@
             "open_issues": 2,
             "owner": "SamurAIGPT",
             "repo": "Text-To-Video-AI",
-            "stars": 816,
+            "stars": 817,
             "topics": [
               "ai-api",
               "ai-tools",
@@ -145,7 +145,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 476,
+            "stars": 478,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -271,7 +271,7 @@
             "open_issues": 3,
             "owner": "Anil-matcha",
             "repo": "Flux-3-Dev-API",
-            "stars": 181,
+            "stars": 182,
             "topics": [
               "ai-image",
               "ai-image-generation",
@@ -583,6 +583,48 @@
         },
         {
           "node_type": "item",
+          "title": "Gemini-Omni-1.1-Flash-API",
+          "description": "Python SDK and MCP server for Google's newly announced Gemini Omni 1.1 Flash update.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Gemini Omni 1.1 Flash API Python SDK and MCP server for Google's newly announced update: scene extension, keyframe control, 360p draft mode, 4K upscaling, and video reference input via MuAPI.",
+            "homepage": null,
+            "id": 1348713057,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-27T16:36:09Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "Gemini-Omni-1.1-Flash-API",
+            "stars": 3,
+            "topics": [
+              "ai-api",
+              "ai-video",
+              "ai-video-generation",
+              "api-wrapper",
+              "async-api",
+              "gemini",
+              "gemini-api",
+              "gemini-omni",
+              "generative-ai",
+              "google-ai",
+              "image-to-video-api",
+              "mcp-server",
+              "model-context-protocol",
+              "muapi",
+              "multimodal-ai",
+              "python-api-wrapper",
+              "python-sdk",
+              "text-to-video-api",
+              "video-api",
+              "video-generation"
+            ]
+          },
+          "first_seen": "2026-08-28T23:53:23.461Z"
+        },
+        {
+          "node_type": "item",
           "title": "Wan-3.0-Prime-API",
           "description": "Python SDK and MCP server for the higher-fidelity Wan 3.0 Prime tier.",
           "children": [],
@@ -619,48 +661,6 @@
               "wan-3-0-api",
               "wan-3-prime-api",
               "wan-api"
-            ]
-          },
-          "first_seen": "2026-08-28T23:53:23.461Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Gemini-Omni-1.1-Flash-API",
-          "description": "Python SDK and MCP server for Google's newly announced Gemini Omni 1.1 Flash update.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Gemini Omni 1.1 Flash API Python SDK and MCP server for Google's newly announced update: scene extension, keyframe control, 360p draft mode, 4K upscaling, and video reference input via MuAPI.",
-            "homepage": null,
-            "id": 1348713057,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-08-27T16:36:09Z",
-            "open_issues": 0,
-            "owner": "Anil-matcha",
-            "repo": "Gemini-Omni-1.1-Flash-API",
-            "stars": 2,
-            "topics": [
-              "ai-api",
-              "ai-video",
-              "ai-video-generation",
-              "api-wrapper",
-              "async-api",
-              "gemini",
-              "gemini-api",
-              "gemini-omni",
-              "generative-ai",
-              "google-ai",
-              "image-to-video-api",
-              "mcp-server",
-              "model-context-protocol",
-              "muapi",
-              "multimodal-ai",
-              "python-api-wrapper",
-              "python-sdk",
-              "text-to-video-api",
-              "video-api",
-              "video-generation"
             ]
           },
           "first_seen": "2026-08-28T23:53:23.461Z"
@@ -712,7 +712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:41:19.953Z",
+    "last_updated": "2026-09-01T18:13:04.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
