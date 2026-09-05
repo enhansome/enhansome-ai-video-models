@@ -18,8 +18,8 @@ Unlike other lists that just dump links, this one answers the question developer
 
 ## Related Projects
 
-* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 27,715 | 🐛 32 | 🌐 JavaScript | 📅 2026-09-04 — curated hub of open generative-media tools and pipelines
-* [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 1,993 | 🐛 0 | 📅 2026-08-21 — free curriculum teaching creators how to monetize the models compared in this list
+* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 27,767 | 🐛 33 | 🌐 JavaScript | 📅 2026-09-04 — curated hub of open generative-media tools and pipelines
+* [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 1,995 | 🐛 0 | 📅 2026-08-21 — free curriculum teaching creators how to monetize the models compared in this list
 * [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) ⭐ 819 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-08-24 — generate a finished video from a text prompt end-to-end
 * [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) ⭐ 482 | 🐛 1 | 🌐 Python | 📅 2026-08-02 — multi-scene AI micro-drama pipeline
 * [Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) ⭐ 344 | 🐛 1 | 🌐 Python | 📅 2026-08-03 — Python wrapper for ByteDance Seedance 2
@@ -31,7 +31,7 @@ Unlike other lists that just dump links, this one answers the question developer
 * [awesome-minimax-h3-prompts](https://github.com/Anil-matcha/awesome-minimax-h3-prompts) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15 — Prompt gallery with runnable MiniMax H3 video examples.
 * [Veo-4-API](https://github.com/Anil-matcha/Veo-4-API) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-08-02 — Python wrapper for Google Veo 4
 * [wan-3.0-comfyui](https://github.com/Anil-matcha/wan-3.0-comfyui) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-08-25 — ComfyUI custom nodes for Wan 3.0 text-to-image, image edit, text-to-video, and image-to-video via MuAPI.
-* [awesome-uncensored-ai-video-models](https://github.com/Anil-matcha/awesome-uncensored-ai-video-models) ⭐ 4 | 🐛 0 | 📅 2026-08-05 — Filtering-, access-, and licensing-focused companion catalog for local and hosted video model variants
+* [awesome-uncensored-ai-video-models](https://github.com/Anil-matcha/awesome-uncensored-ai-video-models) ⭐ 5 | 🐛 0 | 📅 2026-08-05 — Filtering-, access-, and licensing-focused companion catalog for local and hosted video model variants
 * [Gemini-Omni-1.1-Flash-API](https://github.com/Anil-matcha/Gemini-Omni-1.1-Flash-API) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-08-27 — Python SDK and MCP server for Google's newly announced Gemini Omni 1.1 Flash update.
 * [Wan-3.0-Prime-API](https://github.com/Anil-matcha/Wan-3.0-Prime-API) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-08-25 — Python SDK and MCP server for the higher-fidelity Wan 3.0 Prime tier.
 * [Video-Utilities-API](https://github.com/Anil-matcha/Video-Utilities-API) ⭐ 2 | 🐛 0 | 📅 2026-08-20 — compare Muapi video upscaling and video-to-audio post-production endpoints.
@@ -134,7 +134,7 @@ Post-process generated (or real) footage — upscale, interpolate, denoise.
 
 Don't trust a maker's own demo reel — check independent evals before committing:
 
-* **[VBench / VBench-2.0](https://github.com/Vchitect/VBench) ⭐ 1,759 | 🐛 73 | 🌐 Python | 📅 2026-08-21** — 16-dimension automated quality benchmark
+* **[VBench / VBench-2.0](https://github.com/Vchitect/VBench) ⭐ 1,760 | 🐛 73 | 🌐 Python | 📅 2026-08-21** — 16-dimension automated quality benchmark
 * **Artificial Analysis Video Arena** — Elo-style human-preference leaderboard across commercial + open models
 * **Video-Bench** — human-aligned evaluation suite
 
@@ -161,8 +161,8 @@ PRs welcome. When adding a model, keep the table columns filled — **a row with
 
 ***
 
-*Maintained alongside [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 27,715 | 🐛 32 | 🌐 JavaScript | 📅 2026-09-04. Found it useful? ⭐ the repo.*
+*Maintained alongside [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 27,767 | 🐛 33 | 🌐 JavaScript | 📅 2026-09-04. Found it useful? ⭐ the repo.*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
