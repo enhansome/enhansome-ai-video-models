@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T09:04:50Z",
+            "last_commit": "2026-09-06T11:40:51Z",
             "open_issues": 33,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 27767,
+            "stars": 27886,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 1995,
+            "stars": 2001,
             "topics": [
               "ai",
               "ai-agents",
@@ -103,7 +103,7 @@
             "open_issues": 2,
             "owner": "SamurAIGPT",
             "repo": "Text-To-Video-AI",
-            "stars": 819,
+            "stars": 820,
             "topics": [
               "ai-api",
               "ai-tools",
@@ -187,7 +187,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Seedance-2-API",
-            "stars": 344,
+            "stars": 345,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -313,7 +313,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "awesome-flux-3-api-prompts",
-            "stars": 143,
+            "stars": 144,
             "topics": [
               "ai-image-generation",
               "ai-video",
@@ -355,7 +355,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Wan-3.0-API",
-            "stars": 76,
+            "stars": 77,
             "topics": [
               "ai-api",
               "ai-video",
@@ -712,7 +712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T17:11:48.861Z",
+    "last_updated": "2026-09-06T17:31:22.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
