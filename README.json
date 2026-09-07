@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T11:40:51Z",
+            "last_commit": "2026-09-07T17:54:44Z",
             "open_issues": 33,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 27886,
+            "stars": 28035,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 2001,
+            "stars": 2003,
             "topics": [
               "ai",
               "ai-agents",
@@ -103,7 +103,7 @@
             "open_issues": 2,
             "owner": "SamurAIGPT",
             "repo": "Text-To-Video-AI",
-            "stars": 820,
+            "stars": 821,
             "topics": [
               "ai-api",
               "ai-tools",
@@ -145,7 +145,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 482,
+            "stars": 483,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -183,7 +183,7 @@
             "id": 786160729,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-03T11:21:30Z",
+            "last_commit": "2026-09-07T17:51:50Z",
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Seedance-2-API",
@@ -225,7 +225,7 @@
             "id": 656732726,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-09T10:24:03Z",
+            "last_commit": "2026-09-07T17:51:48Z",
             "open_issues": 5,
             "owner": "Anil-matcha",
             "repo": "awesome-seedance-2.5-api-prompts",
@@ -712,7 +712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:31:22.633Z",
+    "last_updated": "2026-09-07T19:01:24.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
