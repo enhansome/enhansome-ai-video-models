@@ -15,20 +15,20 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T14:41:06Z",
+            "last_commit": "2026-09-09T15:57:10Z",
             "open_issues": 35,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 28115,
+            "stars": 28190,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
               "ai-video-generation",
               "creative-tools",
               "fal-ai-alternative",
-              "flux-1",
               "generative-ai",
               "image-to-video",
+              "invideo-alternative",
               "javascript",
               "kling-ai",
               "lipsync",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 2004,
+            "stars": 2007,
             "topics": [
               "ai",
               "ai-agents",
@@ -187,7 +187,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Seedance-2-API",
-            "stars": 345,
+            "stars": 346,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -712,7 +712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:22:20.286Z",
+    "last_updated": "2026-09-09T18:21:09.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
