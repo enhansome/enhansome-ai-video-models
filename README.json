@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T15:57:10Z",
-            "open_issues": 35,
+            "last_commit": "2026-09-10T09:33:14Z",
+            "open_issues": 36,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 28190,
+            "stars": 28244,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 2007,
+            "stars": 2009,
             "topics": [
               "ai",
               "ai-agents",
@@ -103,7 +103,7 @@
             "open_issues": 2,
             "owner": "SamurAIGPT",
             "repo": "Text-To-Video-AI",
-            "stars": 821,
+            "stars": 822,
             "topics": [
               "ai-api",
               "ai-tools",
@@ -145,7 +145,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 486,
+            "stars": 489,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -229,7 +229,7 @@
             "open_issues": 5,
             "owner": "Anil-matcha",
             "repo": "awesome-seedance-2.5-api-prompts",
-            "stars": 314,
+            "stars": 316,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -313,7 +313,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "awesome-flux-3-api-prompts",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "ai-image-generation",
               "ai-video",
@@ -712,7 +712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T18:21:09.384Z",
+    "last_updated": "2026-09-10T18:11:15.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
