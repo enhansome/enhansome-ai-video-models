@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 28497,
+            "stars": 28564,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 2015,
+            "stars": 2017,
             "topics": [
               "ai",
               "ai-agents",
@@ -103,7 +103,7 @@
             "open_issues": 2,
             "owner": "SamurAIGPT",
             "repo": "Text-To-Video-AI",
-            "stars": 823,
+            "stars": 824,
             "topics": [
               "ai-api",
               "ai-tools",
@@ -145,7 +145,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 496,
+            "stars": 497,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -271,7 +271,7 @@
             "open_issues": 3,
             "owner": "Anil-matcha",
             "repo": "Flux-3-Dev-API",
-            "stars": 182,
+            "stars": 183,
             "topics": [
               "ai-image",
               "ai-image-generation",
@@ -712,7 +712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:44:51.961Z",
+    "last_updated": "2026-09-15T18:44:47.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
@@ -721,7 +721,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-08-27T16:37:44Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "Anil-matcha",
       "repo": "awesome-ai-video-models",
       "stars": 190,
