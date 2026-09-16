@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T14:53:27Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-15T18:52:09Z",
+            "open_issues": 36,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 28564,
+            "stars": 28611,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -355,7 +355,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Wan-3.0-API",
-            "stars": 78,
+            "stars": 77,
             "topics": [
               "ai-api",
               "ai-video",
@@ -439,7 +439,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-minimax-h3-prompts",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -712,7 +712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T18:44:47.991Z",
+    "last_updated": "2026-09-16T18:43:42.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",

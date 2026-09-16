@@ -18,7 +18,7 @@ Unlike other lists that just dump links, this one answers the question developer
 
 ## Related Projects
 
-* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 28,564 | 🐛 37 | 🌐 JavaScript | 📅 2026-09-11 — curated hub of open generative-media tools and pipelines
+* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 28,611 | 🐛 36 | 🌐 JavaScript | 📅 2026-09-15 — curated hub of open generative-media tools and pipelines
 * [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 2,017 | 🐛 0 | 📅 2026-08-21 — free curriculum teaching creators how to monetize the models compared in this list
 * [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) ⭐ 824 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-08-24 — generate a finished video from a text prompt end-to-end
 * [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) ⭐ 497 | 🐛 1 | 🌐 Python | 📅 2026-08-02 — multi-scene AI micro-drama pipeline
@@ -26,9 +26,9 @@ Unlike other lists that just dump links, this one answers the question developer
 * [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) ⭐ 316 | 🐛 5 | 📅 2026-09-07 — prompt library for Seedance 2.5
 * [Flux-3-Dev-API](https://github.com/Anil-matcha/Flux-3-Dev-API) ⭐ 183 | 🐛 3 | 🌐 Python | 📅 2026-08-28 — Python wrapper for Black Forest Labs' FLUX 3 (Dev variant) — text-to-image, image-to-image, text-to-video, image-to-video
 * [awesome-flux-3-api-prompts](https://github.com/Anil-matcha/awesome-flux-3-api-prompts) ⭐ 145 | 🐛 2 | 📅 2026-08-20 — FLUX 3 API guide, prompts, and parameters
-* [Wan-3.0-API](https://github.com/Anil-matcha/Wan-3.0-API) ⭐ 78 | 🐛 0 | 🌐 Python | 📅 2026-08-25 — Python SDK and MCP server for Wan 3.0-compatible video generation.
+* [Wan-3.0-API](https://github.com/Anil-matcha/Wan-3.0-API) ⭐ 77 | 🐛 0 | 🌐 Python | 📅 2026-08-25 — Python SDK and MCP server for Wan 3.0-compatible video generation.
 * [MiniMax-H3-API](https://github.com/Anil-matcha/MiniMax-H3-API) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2026-08-15 — Python SDK for MiniMax H3 text-to-video, image-to-video, and first/last-frame video generation.
-* [awesome-minimax-h3-prompts](https://github.com/Anil-matcha/awesome-minimax-h3-prompts) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15 — Prompt gallery with runnable MiniMax H3 video examples.
+* [awesome-minimax-h3-prompts](https://github.com/Anil-matcha/awesome-minimax-h3-prompts) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15 — Prompt gallery with runnable MiniMax H3 video examples.
 * [Veo-4-API](https://github.com/Anil-matcha/Veo-4-API) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-08-02 — Python wrapper for Google Veo 4
 * [awesome-uncensored-ai-video-models](https://github.com/Anil-matcha/awesome-uncensored-ai-video-models) ⭐ 6 | 🐛 0 | 📅 2026-08-05 — Filtering-, access-, and licensing-focused companion catalog for local and hosted video model variants
 * [wan-3.0-comfyui](https://github.com/Anil-matcha/wan-3.0-comfyui) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-08-25 — ComfyUI custom nodes for Wan 3.0 text-to-image, image edit, text-to-video, and image-to-video via MuAPI.
@@ -134,7 +134,7 @@ Post-process generated (or real) footage — upscale, interpolate, denoise.
 
 Don't trust a maker's own demo reel — check independent evals before committing:
 
-* **[VBench / VBench-2.0](https://github.com/Vchitect/VBench) ⭐ 1,777 | 🐛 74 | 🌐 Python | 📅 2026-08-21** — 16-dimension automated quality benchmark
+* **[VBench / VBench-2.0](https://github.com/Vchitect/VBench) ⭐ 1,779 | 🐛 74 | 🌐 Python | 📅 2026-08-21** — 16-dimension automated quality benchmark
 * **Artificial Analysis Video Arena** — Elo-style human-preference leaderboard across commercial + open models
 * **Video-Bench** — human-aligned evaluation suite
 
@@ -161,8 +161,8 @@ PRs welcome. When adding a model, keep the table columns filled — **a row with
 
 ***
 
-*Maintained alongside [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 28,564 | 🐛 37 | 🌐 JavaScript | 📅 2026-09-11. Found it useful? ⭐ the repo.*
+*Maintained alongside [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 28,611 | 🐛 36 | 🌐 JavaScript | 📅 2026-09-15. Found it useful? ⭐ the repo.*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
