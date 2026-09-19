@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-17T15:37:34Z",
-            "open_issues": 37,
+            "open_issues": 36,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 28779,
+            "stars": 28839,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 2022,
+            "stars": 2028,
             "topics": [
               "ai",
               "ai-agents",
@@ -103,7 +103,7 @@
             "open_issues": 2,
             "owner": "SamurAIGPT",
             "repo": "Text-To-Video-AI",
-            "stars": 825,
+            "stars": 827,
             "topics": [
               "ai-api",
               "ai-tools",
@@ -145,7 +145,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 499,
+            "stars": 501,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -187,7 +187,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Seedance-2-API",
-            "stars": 346,
+            "stars": 347,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -229,7 +229,7 @@
             "open_issues": 5,
             "owner": "Anil-matcha",
             "repo": "awesome-seedance-2.5-api-prompts",
-            "stars": 316,
+            "stars": 317,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -271,7 +271,7 @@
             "open_issues": 3,
             "owner": "Anil-matcha",
             "repo": "Flux-3-Dev-API",
-            "stars": 183,
+            "stars": 184,
             "topics": [
               "ai-image",
               "ai-image-generation",
@@ -313,7 +313,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "awesome-flux-3-api-prompts",
-            "stars": 145,
+            "stars": 146,
             "topics": [
               "ai-image-generation",
               "ai-video",
@@ -355,7 +355,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Wan-3.0-API",
-            "stars": 77,
+            "stars": 78,
             "topics": [
               "ai-api",
               "ai-video",
@@ -397,7 +397,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "MiniMax-H3-API",
-            "stars": 49,
+            "stars": 50,
             "topics": [
               "ai-tools",
               "ai-video",
@@ -439,7 +439,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-minimax-h3-prompts",
-            "stars": 16,
+            "stars": 17,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -481,7 +481,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Veo-4-API",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "4k-video",
               "ai-video-generator",
@@ -523,7 +523,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-video-models",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "ai",
               "ai-models",
@@ -565,7 +565,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "wan-3.0-comfyui",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "ai-video",
               "comfyui",
@@ -597,7 +597,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Gemini-Omni-1.1-Flash-API",
-            "stars": 3,
+            "stars": 4,
             "topics": [
               "ai-api",
               "ai-video",
@@ -639,7 +639,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Wan-3.0-Prime-API",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "ai-api",
               "ai-video",
@@ -664,6 +664,48 @@
             ]
           },
           "first_seen": "2026-08-28T23:53:23.461Z"
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-gemini-4-pro",
+          "description": "frontier Gemini use cases covering multimodal, visual, and agent workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Evidence-backed Gemini 4 Pro use cases, prompts, evaluations, and status tracking",
+            "homepage": null,
+            "id": 1376315948,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-09-18T19:02:48Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "awesome-gemini-4-pro",
+            "stars": 2,
+            "topics": [
+              "agentic-ai",
+              "ai-agents",
+              "ai-coding",
+              "artificial-intelligence",
+              "awesome",
+              "awesome-list",
+              "coding-agents",
+              "gemini",
+              "gemini-3-8-flash",
+              "gemini-4-pro",
+              "gemini-api",
+              "generative-ai",
+              "google-ai",
+              "language-models",
+              "large-language-models",
+              "llm",
+              "long-context",
+              "model-evaluation",
+              "multimodal",
+              "prompt-engineering"
+            ]
+          },
+          "first_seen": "2026-09-19T17:49:16.780Z"
         },
         {
           "node_type": "item",
@@ -712,7 +754,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T18:06:39.953Z",
+    "last_updated": "2026-09-19T17:49:16.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
@@ -720,11 +762,11 @@
       "id": 662620443,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-27T16:37:44Z",
+      "last_commit": "2026-09-18T19:02:40Z",
       "open_issues": 7,
       "owner": "Anil-matcha",
       "repo": "awesome-ai-video-models",
-      "stars": 191,
+      "stars": 192,
       "topics": [
         "ai-video",
         "ai-video-generator",
@@ -748,7 +790,7 @@
         "wan"
       ]
     },
-    "original_repository_sha": "8dca2ac62d2d97c16e104630a3631345d27f290b",
+    "original_repository_sha": "58a68a73988a64734c083abe0b5e957f1f7b93bc",
     "enhanced_repository": "enhansome/enhansome-ai-video-models",
     "enhanced_repository_description": null,
     "title": "Awesome AI Video Models with stars"
