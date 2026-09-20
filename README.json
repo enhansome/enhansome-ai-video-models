@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T15:37:34Z",
+            "last_commit": "2026-09-19T19:02:56Z",
             "open_issues": 36,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 28839,
+            "stars": 28919,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 2028,
+            "stars": 2030,
             "topics": [
               "ai",
               "ai-agents",
@@ -754,7 +754,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T17:49:16.780Z",
+    "last_updated": "2026-09-20T18:03:04.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
@@ -766,7 +766,7 @@
       "open_issues": 7,
       "owner": "Anil-matcha",
       "repo": "awesome-ai-video-models",
-      "stars": 192,
+      "stars": 193,
       "topics": [
         "ai-video",
         "ai-video-generator",
