@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T19:02:56Z",
-            "open_issues": 39,
+            "last_commit": "2026-09-23T16:07:19Z",
+            "open_issues": 38,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 29036,
+            "stars": 29098,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 2034,
+            "stars": 2036,
             "topics": [
               "ai",
               "ai-agents",
@@ -103,7 +103,7 @@
             "open_issues": 2,
             "owner": "SamurAIGPT",
             "repo": "Text-To-Video-AI",
-            "stars": 830,
+            "stars": 832,
             "topics": [
               "ai-api",
               "ai-tools",
@@ -145,7 +145,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 506,
+            "stars": 507,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -183,7 +183,7 @@
             "id": 786160729,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-07T17:51:50Z",
+            "last_commit": "2026-09-23T13:53:11Z",
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Seedance-2-API",
@@ -225,7 +225,7 @@
             "id": 656732726,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-07T17:51:48Z",
+            "last_commit": "2026-09-23T13:53:13Z",
             "open_issues": 5,
             "owner": "Anil-matcha",
             "repo": "awesome-seedance-2.5-api-prompts",
@@ -383,6 +383,48 @@
         },
         {
           "node_type": "item",
+          "title": "Kling-4-API",
+          "description": "Python client and runnable examples for Kling video generation through MuAPI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Python SDK and examples for Kling video generation through MuAPI",
+            "homepage": null,
+            "id": 682148403,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-23T15:58:04Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "Kling-4-API",
+            "stars": 54,
+            "topics": [
+              "ai-video-generation",
+              "api-client",
+              "async-api",
+              "image-to-video",
+              "kling",
+              "kling-3",
+              "kling-3-0",
+              "kling-4",
+              "kling-4-0",
+              "kling-4-0-api",
+              "kling-4-api",
+              "kling-ai",
+              "kling-api",
+              "kling-video",
+              "muapi",
+              "python",
+              "python-sdk",
+              "rest-api",
+              "text-to-video",
+              "video-generation"
+            ]
+          },
+          "first_seen": "2026-09-23T18:53:36.547Z"
+        },
+        {
+          "node_type": "item",
           "title": "MiniMax-H3-API",
           "description": "Python SDK for MiniMax H3 text-to-video, image-to-video, and first/last-frame video generation.",
           "children": [],
@@ -422,6 +464,48 @@
             ]
           },
           "first_seen": "2026-08-28T23:53:23.461Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Seedance-3-API",
+          "description": "companion project for the next Seedance API generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Seedance 3 API developer guide and SDK project for AI video generation via MuAPI",
+            "homepage": null,
+            "id": 1310314499,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-09-23T14:32:27Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "Seedance-3-API",
+            "stars": 37,
+            "topics": [
+              "ai",
+              "ai-api",
+              "ai-video",
+              "ai-video-generation",
+              "bytedance",
+              "generative-ai",
+              "image-to-video",
+              "mcp",
+              "muapi",
+              "python",
+              "python-sdk",
+              "seedance",
+              "seedance-3",
+              "seedance-3-api",
+              "seedance-api",
+              "text-to-video",
+              "video-api",
+              "video-generation",
+              "video-model",
+              "video-sdk"
+            ]
+          },
+          "first_seen": "2026-09-23T18:53:36.547Z"
         },
         {
           "node_type": "item",
@@ -723,7 +807,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Video-Utilities-API",
-            "stars": 2,
+            "stars": 1,
             "topics": [
               "ai",
               "api",
@@ -748,13 +832,55 @@
             ]
           },
           "first_seen": "2026-08-28T23:53:23.461Z"
+        },
+        {
+          "node_type": "item",
+          "title": "seedance-motion-control",
+          "description": "compare Seedance 2 and 2.5 motion-control limits and use runnable Muapi examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Seedance 2 and 2.5 Motion Control API comparison and runnable Muapi examples",
+            "homepage": null,
+            "id": 1383522085,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-09-23T13:39:43Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "seedance-motion-control",
+            "stars": 0,
+            "topics": [
+              "ai-video",
+              "ai-video-generation",
+              "api-examples",
+              "async-api",
+              "bytedance",
+              "curl",
+              "generative-ai",
+              "javascript",
+              "motion-control",
+              "muapi",
+              "muapi-api",
+              "performer-recast",
+              "python",
+              "rest-api",
+              "seedance",
+              "seedance-2",
+              "seedance-2-5",
+              "video-editing",
+              "video-generation",
+              "video-to-video"
+            ]
+          },
+          "first_seen": "2026-09-23T18:53:36.547Z"
         }
       ],
       "title": "Related Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T18:34:30.435Z",
+    "last_updated": "2026-09-23T18:53:36.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
@@ -762,11 +888,11 @@
       "id": 662620443,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-18T19:02:40Z",
-      "open_issues": 9,
+      "last_commit": "2026-09-23T15:40:21Z",
+      "open_issues": 10,
       "owner": "Anil-matcha",
       "repo": "awesome-ai-video-models",
-      "stars": 193,
+      "stars": 194,
       "topics": [
         "ai-video",
         "ai-video-generator",
@@ -790,7 +916,7 @@
         "wan"
       ]
     },
-    "original_repository_sha": "58a68a73988a64734c083abe0b5e957f1f7b93bc",
+    "original_repository_sha": "872f320a3c8397ab51dfa7e87f2ba8875a398b87",
     "enhanced_repository": "enhansome/enhansome-ai-video-models",
     "enhanced_repository_description": null,
     "title": "Awesome AI Video Models with stars"
