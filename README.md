@@ -18,8 +18,8 @@ Unlike other lists that just dump links, this one answers the question developer
 
 ## Related Projects
 
-* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 29,098 | 🐛 38 | 🌐 JavaScript | 📅 2026-09-23 — curated hub of open generative-media tools and pipelines
-* [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 2,036 | 🐛 0 | 📅 2026-08-21 — free curriculum teaching creators how to monetize the models compared in this list
+* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 29,155 | 🐛 38 | 🌐 JavaScript | 📅 2026-09-24 — curated hub of open generative-media tools and pipelines
+* [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 2,039 | 🐛 0 | 📅 2026-08-21 — free curriculum teaching creators how to monetize the models compared in this list
 * [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) ⭐ 832 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-08-24 — generate a finished video from a text prompt end-to-end
 * [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) ⭐ 507 | 🐛 2 | 🌐 Python | 📅 2026-08-02 — multi-scene AI micro-drama pipeline
 * [Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) ⭐ 350 | 🐛 1 | 🌐 Python | 📅 2026-09-23 — Python wrapper for ByteDance Seedance 2
@@ -36,7 +36,7 @@ Unlike other lists that just dump links, this one answers the question developer
 * [wan-3.0-comfyui](https://github.com/Anil-matcha/wan-3.0-comfyui) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-08-25 — ComfyUI custom nodes for Wan 3.0 text-to-image, image edit, text-to-video, and image-to-video via MuAPI.
 * [Gemini-Omni-1.1-Flash-API](https://github.com/Anil-matcha/Gemini-Omni-1.1-Flash-API) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-08-27 — Python SDK and MCP server for Google's newly announced Gemini Omni 1.1 Flash update.
 * [Wan-3.0-Prime-API](https://github.com/Anil-matcha/Wan-3.0-Prime-API) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-08-25 — Python SDK and MCP server for the higher-fidelity Wan 3.0 Prime tier.
-* [awesome-gemini-4-pro](https://github.com/Anil-matcha/awesome-gemini-4-pro) ⭐ 2 | 🐛 0 | 📅 2026-09-18 — frontier Gemini use cases covering multimodal, visual, and agent workflows.
+* [awesome-gemini-4-pro](https://github.com/Anil-matcha/awesome-gemini-4-pro) ⭐ 3 | 🐛 0 | 📅 2026-09-18 — frontier Gemini use cases covering multimodal, visual, and agent workflows.
 * [Video-Utilities-API](https://github.com/Anil-matcha/Video-Utilities-API) ⭐ 1 | 🐛 0 | 📅 2026-08-20 — compare Muapi video upscaling and video-to-audio post-production endpoints.
 * [seedance-motion-control](https://github.com/Anil-matcha/seedance-motion-control) ⭐ 0 | 🐛 0 | 📅 2026-09-23 — compare Seedance 2 and 2.5 motion-control limits and use runnable Muapi examples
 * [MuAPI video-generation docs](https://muapi.ai/docs/video-generation) — Use the models compared here through one unified API.
@@ -138,7 +138,7 @@ Post-process generated (or real) footage — upscale, interpolate, denoise.
 
 Don't trust a maker's own demo reel — check independent evals before committing:
 
-* **[VBench / VBench-2.0](https://github.com/Vchitect/VBench) ⭐ 1,792 | 🐛 74 | 🌐 Python | 📅 2026-08-21** — 16-dimension automated quality benchmark
+* **[VBench / VBench-2.0](https://github.com/Vchitect/VBench) ⭐ 1,794 | 🐛 73 | 🌐 Python | 📅 2026-08-21** — 16-dimension automated quality benchmark
 * **Artificial Analysis Video Arena** — Elo-style human-preference leaderboard across commercial + open models
 * **Video-Bench** — human-aligned evaluation suite
 
@@ -165,8 +165,8 @@ PRs welcome. When adding a model, keep the table columns filled — **a row with
 
 ***
 
-*Maintained alongside [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 29,098 | 🐛 38 | 🌐 JavaScript | 📅 2026-09-23. Found it useful? ⭐ the repo.*
+*Maintained alongside [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 29,155 | 🐛 38 | 🌐 JavaScript | 📅 2026-09-24. Found it useful? ⭐ the repo.*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
