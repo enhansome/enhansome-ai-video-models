@@ -18,10 +18,10 @@ Unlike other lists that just dump links, this one answers the question developer
 
 ## Related Projects
 
-* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 29,155 | 🐛 38 | 🌐 JavaScript | 📅 2026-09-24 — curated hub of open generative-media tools and pipelines
-* [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 2,039 | 🐛 0 | 📅 2026-08-21 — free curriculum teaching creators how to monetize the models compared in this list
+* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 29,206 | 🐛 38 | 🌐 JavaScript | 📅 2026-09-25 — curated hub of open generative-media tools and pipelines
+* [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 2,042 | 🐛 0 | 📅 2026-08-21 — free curriculum teaching creators how to monetize the models compared in this list
 * [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) ⭐ 832 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-08-24 — generate a finished video from a text prompt end-to-end
-* [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) ⭐ 507 | 🐛 2 | 🌐 Python | 📅 2026-08-02 — multi-scene AI micro-drama pipeline
+* [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) ⭐ 511 | 🐛 2 | 🌐 Python | 📅 2026-08-02 — multi-scene AI micro-drama pipeline
 * [Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) ⭐ 350 | 🐛 1 | 🌐 Python | 📅 2026-09-23 — Python wrapper for ByteDance Seedance 2
 * [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) ⭐ 318 | 🐛 5 | 📅 2026-09-23 — prompt library for Seedance 2.5
 * [Flux-3-Dev-API](https://github.com/Anil-matcha/Flux-3-Dev-API) ⭐ 185 | 🐛 3 | 🌐 Python | 📅 2026-08-28 — Python wrapper for Black Forest Labs' FLUX 3 (Dev variant) — text-to-image, image-to-image, text-to-video, image-to-video
@@ -30,7 +30,7 @@ Unlike other lists that just dump links, this one answers the question developer
 * [Kling-4-API](https://github.com/Anil-matcha/Kling-4-API) ⭐ 54 | 🐛 0 | 🌐 Python | 📅 2026-09-23 — Python client and runnable examples for Kling video generation through MuAPI
 * [MiniMax-H3-API](https://github.com/Anil-matcha/MiniMax-H3-API) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2026-08-15 — Python SDK for MiniMax H3 text-to-video, image-to-video, and first/last-frame video generation.
 * [Seedance-3-API](https://github.com/Anil-matcha/Seedance-3-API) ⭐ 37 | 🐛 0 | 📅 2026-09-23 — companion project for the next Seedance API generation.
-* [awesome-minimax-h3-prompts](https://github.com/Anil-matcha/awesome-minimax-h3-prompts) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15 — Prompt gallery with runnable MiniMax H3 video examples.
+* [awesome-minimax-h3-prompts](https://github.com/Anil-matcha/awesome-minimax-h3-prompts) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15 — Prompt gallery with runnable MiniMax H3 video examples.
 * [Veo-4-API](https://github.com/Anil-matcha/Veo-4-API) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-08-02 — Python wrapper for Google Veo 4
 * [awesome-uncensored-ai-video-models](https://github.com/Anil-matcha/awesome-uncensored-ai-video-models) ⭐ 8 | 🐛 0 | 📅 2026-08-05 — Filtering-, access-, and licensing-focused companion catalog for local and hosted video model variants
 * [wan-3.0-comfyui](https://github.com/Anil-matcha/wan-3.0-comfyui) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-08-25 — ComfyUI custom nodes for Wan 3.0 text-to-image, image edit, text-to-video, and image-to-video via MuAPI.
@@ -138,7 +138,7 @@ Post-process generated (or real) footage — upscale, interpolate, denoise.
 
 Don't trust a maker's own demo reel — check independent evals before committing:
 
-* **[VBench / VBench-2.0](https://github.com/Vchitect/VBench) ⭐ 1,794 | 🐛 73 | 🌐 Python | 📅 2026-08-21** — 16-dimension automated quality benchmark
+* **[VBench / VBench-2.0](https://github.com/Vchitect/VBench) ⭐ 1,795 | 🐛 73 | 🌐 Python | 📅 2026-08-21** — 16-dimension automated quality benchmark
 * **Artificial Analysis Video Arena** — Elo-style human-preference leaderboard across commercial + open models
 * **Video-Bench** — human-aligned evaluation suite
 
@@ -165,8 +165,8 @@ PRs welcome. When adding a model, keep the table columns filled — **a row with
 
 ***
 
-*Maintained alongside [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 29,155 | 🐛 38 | 🌐 JavaScript | 📅 2026-09-24. Found it useful? ⭐ the repo.*
+*Maintained alongside [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 29,206 | 🐛 38 | 🌐 JavaScript | 📅 2026-09-25. Found it useful? ⭐ the repo.*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
