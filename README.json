@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 29206,
+            "stars": 29240,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -187,7 +187,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Seedance-2-API",
-            "stars": 350,
+            "stars": 351,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -607,7 +607,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-video-models",
-            "stars": 8,
+            "stars": 10,
             "topics": [
               "ai",
               "ai-models",
@@ -880,7 +880,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T19:09:12.104Z",
+    "last_updated": "2026-09-26T18:24:17.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
@@ -889,10 +889,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-23T15:40:21Z",
-      "open_issues": 10,
+      "open_issues": 11,
       "owner": "Anil-matcha",
       "repo": "awesome-ai-video-models",
-      "stars": 195,
+      "stars": 196,
       "topics": [
         "ai-video",
         "ai-video-generator",
