@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 29240,
+            "stars": 29297,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 2042,
+            "stars": 2044,
             "topics": [
               "ai",
               "ai-agents",
@@ -145,7 +145,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 511,
+            "stars": 514,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -187,7 +187,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Seedance-2-API",
-            "stars": 351,
+            "stars": 352,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -551,6 +551,48 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-uncensored-ai-video-models",
+          "description": "Filtering-, access-, and licensing-focused companion catalog for local and hosted video model variants",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A community-maintained catalog of open, low-filter, and community-reported AI video models, checkpoints, adapters, and endpoints.",
+            "homepage": null,
+            "id": 1324407874,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-05T20:13:29Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "awesome-uncensored-ai-video-models",
+            "stars": 11,
+            "topics": [
+              "ai",
+              "ai-models",
+              "ai-video",
+              "artificial-intelligence",
+              "deep-learning",
+              "diffusion-models",
+              "generative-ai",
+              "image-to-video",
+              "image-to-video-models",
+              "machine-learning",
+              "model-comparison",
+              "open-source",
+              "open-weights",
+              "text-to-video",
+              "text-to-video-models",
+              "uncensored-ai",
+              "video-editing",
+              "video-generation",
+              "video-generation-models",
+              "video-models"
+            ]
+          },
+          "first_seen": "2026-08-28T23:53:23.461Z"
+        },
+        {
+          "node_type": "item",
           "title": "Veo-4-API",
           "description": "Python wrapper for Google Veo 4",
           "children": [],
@@ -587,48 +629,6 @@
               "video-edit",
               "video-generation",
               "video-generation-api"
-            ]
-          },
-          "first_seen": "2026-08-28T23:53:23.461Z"
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-uncensored-ai-video-models",
-          "description": "Filtering-, access-, and licensing-focused companion catalog for local and hosted video model variants",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A community-maintained catalog of open, low-filter, and community-reported AI video models, checkpoints, adapters, and endpoints.",
-            "homepage": null,
-            "id": 1324407874,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-05T20:13:29Z",
-            "open_issues": 0,
-            "owner": "Anil-matcha",
-            "repo": "awesome-uncensored-ai-video-models",
-            "stars": 10,
-            "topics": [
-              "ai",
-              "ai-models",
-              "ai-video",
-              "artificial-intelligence",
-              "deep-learning",
-              "diffusion-models",
-              "generative-ai",
-              "image-to-video",
-              "image-to-video-models",
-              "machine-learning",
-              "model-comparison",
-              "open-source",
-              "open-weights",
-              "text-to-video",
-              "text-to-video-models",
-              "uncensored-ai",
-              "video-editing",
-              "video-generation",
-              "video-generation-models",
-              "video-models"
             ]
           },
           "first_seen": "2026-08-28T23:53:23.461Z"
@@ -880,7 +880,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T18:24:17.488Z",
+    "last_updated": "2026-09-27T18:55:20.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
