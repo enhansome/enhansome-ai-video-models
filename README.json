@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T14:01:50Z",
+            "last_commit": "2026-09-28T18:19:39Z",
             "open_issues": 38,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 29297,
+            "stars": 29350,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 2044,
+            "stars": 2045,
             "topics": [
               "ai",
               "ai-agents",
@@ -103,7 +103,7 @@
             "open_issues": 2,
             "owner": "SamurAIGPT",
             "repo": "Text-To-Video-AI",
-            "stars": 832,
+            "stars": 833,
             "topics": [
               "ai-api",
               "ai-tools",
@@ -145,7 +145,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 514,
+            "stars": 515,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -183,7 +183,7 @@
             "id": 786160729,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-23T13:53:11Z",
+            "last_commit": "2026-09-28T12:58:08Z",
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Seedance-2-API",
@@ -225,7 +225,7 @@
             "id": 656732726,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-23T13:53:13Z",
+            "last_commit": "2026-09-28T12:58:10Z",
             "open_issues": 5,
             "owner": "Anil-matcha",
             "repo": "awesome-seedance-2.5-api-prompts",
@@ -351,11 +351,11 @@
             "id": 848220364,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-25T17:44:58Z",
+            "last_commit": "2026-09-28T12:58:24Z",
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Wan-3.0-API",
-            "stars": 78,
+            "stars": 79,
             "topics": [
               "ai-api",
               "ai-video",
@@ -388,12 +388,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Python SDK and examples for Kling video generation through MuAPI",
+            "description": "Python SDK and examples for the Kling 4 API — available now on MuAPI",
             "homepage": null,
             "id": 682148403,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-23T15:58:04Z",
+            "last_commit": "2026-09-28T16:36:34Z",
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Kling-4-API",
@@ -645,7 +645,7 @@
             "id": 1323231325,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-25T17:45:19Z",
+            "last_commit": "2026-09-28T12:58:29Z",
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "wan-3.0-comfyui",
@@ -719,7 +719,7 @@
             "id": 1346444794,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-25T17:44:15Z",
+            "last_commit": "2026-09-28T12:58:26Z",
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Wan-3.0-Prime-API",
@@ -790,6 +790,69 @@
             ]
           },
           "first_seen": "2026-09-19T17:49:16.780Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Wan-3.0-Spicy-API",
+          "description": "Python SDK and MCP server for the relaxed-moderation Wan 3.0 Spicy tier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Python wrapper for Alibaba's Wan 3.0 Spicy API — bold high-motion video with synchronized audio and relaxed content moderation, via MuAPI.",
+            "homepage": null,
+            "id": 1392683456,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-28T12:42:03Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "Wan-3.0-Spicy-API",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-09-28T21:06:28.874Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Seedance-2-Spicy-API",
+          "description": "Python SDK and MCP server for the relaxed-moderation Seedance 2 Spicy / 2 Mini Spicy tier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Python wrapper for ByteDance's Seedance 2 Spicy API — relaxed-moderation VIP tier of Seedance 2.0/2 Mini via MuAPI. Text-to-Video, Image-to-Video, Omni Reference.",
+            "homepage": null,
+            "id": 1392672121,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-28T13:05:08Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "Seedance-2-Spicy-API",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-28T21:06:28.874Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Seedance-2.5-Spicy-API",
+          "description": "Python SDK and MCP server for the relaxed-moderation Seedance 2.5 Spicy tier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Python wrapper for ByteDance's Seedance 2.5 Spicy API — relaxed-moderation flagship tier via MuAPI. Native 4K, 30s clips, Omni Reference, Video Edit/Extend, Motion Control.",
+            "homepage": null,
+            "id": 1392697561,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-28T12:48:25Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "Seedance-2.5-Spicy-API",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-28T21:06:28.874Z"
         },
         {
           "node_type": "item",
@@ -880,7 +943,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:55:20.245Z",
+    "last_updated": "2026-09-28T21:06:28.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
@@ -888,7 +951,7 @@
       "id": 662620443,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-23T15:40:21Z",
+      "last_commit": "2026-09-28T12:58:31Z",
       "open_issues": 11,
       "owner": "Anil-matcha",
       "repo": "awesome-ai-video-models",
@@ -916,7 +979,7 @@
         "wan"
       ]
     },
-    "original_repository_sha": "872f320a3c8397ab51dfa7e87f2ba8875a398b87",
+    "original_repository_sha": "15e4ddc7132f8e045190b5bb18317106bd0b92d5",
     "enhanced_repository": "enhansome/enhansome-ai-video-models",
     "enhanced_repository_description": null,
     "title": "Awesome AI Video Models with stars"
