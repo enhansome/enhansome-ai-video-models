@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T18:19:39Z",
+            "last_commit": "2026-09-28T21:54:14Z",
             "open_issues": 38,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 29350,
+            "stars": 29402,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 2045,
+            "stars": 2046,
             "topics": [
               "ai",
               "ai-agents",
@@ -103,7 +103,7 @@
             "open_issues": 2,
             "owner": "SamurAIGPT",
             "repo": "Text-To-Video-AI",
-            "stars": 833,
+            "stars": 835,
             "topics": [
               "ai-api",
               "ai-tools",
@@ -145,7 +145,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 515,
+            "stars": 517,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -187,7 +187,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Seedance-2-API",
-            "stars": 352,
+            "stars": 353,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -229,7 +229,7 @@
             "open_issues": 5,
             "owner": "Anil-matcha",
             "repo": "awesome-seedance-2.5-api-prompts",
-            "stars": 318,
+            "stars": 319,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -271,7 +271,7 @@
             "open_issues": 3,
             "owner": "Anil-matcha",
             "repo": "Flux-3-Dev-API",
-            "stars": 185,
+            "stars": 186,
             "topics": [
               "ai-image",
               "ai-image-generation",
@@ -313,7 +313,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "awesome-flux-3-api-prompts",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "ai-image-generation",
               "ai-video",
@@ -355,7 +355,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Wan-3.0-API",
-            "stars": 79,
+            "stars": 80,
             "topics": [
               "ai-api",
               "ai-video",
@@ -388,28 +388,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Python SDK and examples for the Kling 4 API — available now on MuAPI",
+            "description": "Kling 4 API and Kling 4.0 API SDK and examples, with Kling 4 Flash API and Kling 4.0 Flash API availability tracking for MuAPI.",
             "homepage": null,
             "id": 682148403,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-28T16:36:34Z",
+            "last_commit": "2026-09-29T11:44:49Z",
             "open_issues": 0,
             "owner": "Anil-matcha",
-            "repo": "Kling-4-API",
-            "stars": 54,
+            "repo": "Kling-4.0-Flash-API",
+            "stars": 56,
             "topics": [
               "ai-video-generation",
               "api-client",
               "async-api",
               "image-to-video",
               "kling",
-              "kling-3",
-              "kling-3-0",
               "kling-4",
               "kling-4-0",
               "kling-4-0-api",
+              "kling-4-0-flash-api",
               "kling-4-api",
+              "kling-4-flash-api",
               "kling-ai",
               "kling-api",
               "kling-video",
@@ -439,7 +439,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "MiniMax-H3-API",
-            "stars": 50,
+            "stars": 51,
             "topics": [
               "ai-tools",
               "ai-video",
@@ -481,7 +481,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Seedance-3-API",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "ai",
               "ai-api",
@@ -523,7 +523,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-minimax-h3-prompts",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -561,11 +561,11 @@
             "id": 1324407874,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-08-05T20:13:29Z",
+            "last_commit": "2026-09-29T08:06:27Z",
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-video-models",
-            "stars": 11,
+            "stars": 13,
             "topics": [
               "ai",
               "ai-models",
@@ -607,7 +607,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Veo-4-API",
-            "stars": 11,
+            "stars": 12,
             "topics": [
               "4k-video",
               "ai-video-generator",
@@ -649,7 +649,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "wan-3.0-comfyui",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "ai-video",
               "comfyui",
@@ -681,7 +681,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Gemini-Omni-1.1-Flash-API",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "ai-api",
               "ai-video",
@@ -723,7 +723,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Wan-3.0-Prime-API",
-            "stars": 3,
+            "stars": 4,
             "topics": [
               "ai-api",
               "ai-video",
@@ -751,6 +751,48 @@
         },
         {
           "node_type": "item",
+          "title": "Seedance-2.5-Spicy-API",
+          "description": "Python SDK and MCP server for the relaxed-moderation Seedance 2.5 Spicy tier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Python wrapper for ByteDance's Seedance 2.5 Spicy API — relaxed-moderation flagship tier via MuAPI. Native 4K, 30s clips, Omni Reference, Video Edit/Extend, Motion Control.",
+            "homepage": null,
+            "id": 1392697561,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-28T12:48:25Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "Seedance-2.5-Spicy-API",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-09-28T21:06:28.874Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Wan-3.0-Spicy-API",
+          "description": "Python SDK and MCP server for the relaxed-moderation Wan 3.0 Spicy tier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Python wrapper for Alibaba's Wan 3.0 Spicy API — bold high-motion video with synchronized audio and relaxed content moderation, via MuAPI.",
+            "homepage": null,
+            "id": 1392683456,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-28T12:42:03Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "Wan-3.0-Spicy-API",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-09-28T21:06:28.874Z"
+        },
+        {
+          "node_type": "item",
           "title": "awesome-gemini-4-pro",
           "description": "frontier Gemini use cases covering multimodal, visual, and agent workflows.",
           "children": [],
@@ -765,7 +807,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-gemini-4-pro",
-            "stars": 3,
+            "stars": 4,
             "topics": [
               "agentic-ai",
               "ai-agents",
@@ -793,66 +835,41 @@
         },
         {
           "node_type": "item",
-          "title": "Wan-3.0-Spicy-API",
-          "description": "Python SDK and MCP server for the relaxed-moderation Wan 3.0 Spicy tier.",
+          "title": "awesome-uncensored-ai-models",
+          "description": "Index of the LLM, image, and video filtering-focused model catalogs",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Python wrapper for Alibaba's Wan 3.0 Spicy API — bold high-motion video with synchronized audio and relaxed content moderation, via MuAPI.",
+            "description": "Index of source-tracked low-filter, abliterated, and community-reported language, image, and video model catalogs",
             "homepage": null,
-            "id": 1392683456,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-28T12:42:03Z",
+            "id": 1394685786,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-29T08:09:03Z",
             "open_issues": 0,
             "owner": "Anil-matcha",
-            "repo": "Wan-3.0-Spicy-API",
-            "stars": 2,
-            "topics": []
+            "repo": "awesome-uncensored-ai-models",
+            "stars": 3,
+            "topics": [
+              "ai-model-catalog",
+              "ai-models",
+              "awesome-list",
+              "generative-ai",
+              "image-generation",
+              "language-models",
+              "machine-learning",
+              "model-comparison",
+              "open-source-ai",
+              "open-weight-models",
+              "uncensored-ai",
+              "uncensored-image-models",
+              "uncensored-llm",
+              "uncensored-models",
+              "uncensored-video-models",
+              "video-generation"
+            ]
           },
-          "first_seen": "2026-09-28T21:06:28.874Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Seedance-2-Spicy-API",
-          "description": "Python SDK and MCP server for the relaxed-moderation Seedance 2 Spicy / 2 Mini Spicy tier.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Python wrapper for ByteDance's Seedance 2 Spicy API — relaxed-moderation VIP tier of Seedance 2.0/2 Mini via MuAPI. Text-to-Video, Image-to-Video, Omni Reference.",
-            "homepage": null,
-            "id": 1392672121,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-28T13:05:08Z",
-            "open_issues": 0,
-            "owner": "Anil-matcha",
-            "repo": "Seedance-2-Spicy-API",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-09-28T21:06:28.874Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Seedance-2.5-Spicy-API",
-          "description": "Python SDK and MCP server for the relaxed-moderation Seedance 2.5 Spicy tier.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Python wrapper for ByteDance's Seedance 2.5 Spicy API — relaxed-moderation flagship tier via MuAPI. Native 4K, 30s clips, Omni Reference, Video Edit/Extend, Motion Control.",
-            "homepage": null,
-            "id": 1392697561,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-28T12:48:25Z",
-            "open_issues": 0,
-            "owner": "Anil-matcha",
-            "repo": "Seedance-2.5-Spicy-API",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-09-28T21:06:28.874Z"
+          "first_seen": "2026-09-29T19:50:12.545Z"
         },
         {
           "node_type": "item",
@@ -870,7 +887,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Video-Utilities-API",
-            "stars": 1,
+            "stars": 3,
             "topics": [
               "ai",
               "api",
@@ -898,6 +915,27 @@
         },
         {
           "node_type": "item",
+          "title": "Seedance-2-Spicy-API",
+          "description": "Python SDK and MCP server for the relaxed-moderation Seedance 2 Spicy / 2 Mini Spicy tier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Python wrapper for ByteDance's Seedance 2 Spicy API — relaxed-moderation VIP tier of Seedance 2.0/2 Mini via MuAPI. Text-to-Video, Image-to-Video, Omni Reference.",
+            "homepage": null,
+            "id": 1392672121,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-28T13:05:08Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "Seedance-2-Spicy-API",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-09-28T21:06:28.874Z"
+        },
+        {
+          "node_type": "item",
           "title": "seedance-motion-control",
           "description": "compare Seedance 2 and 2.5 motion-control limits and use runnable Muapi examples",
           "children": [],
@@ -912,7 +950,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "seedance-motion-control",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -943,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T21:06:28.874Z",
+    "last_updated": "2026-09-29T19:50:12.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
@@ -951,11 +989,11 @@
       "id": 662620443,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-28T12:58:31Z",
-      "open_issues": 11,
+      "last_commit": "2026-09-29T08:06:27Z",
+      "open_issues": 12,
       "owner": "Anil-matcha",
       "repo": "awesome-ai-video-models",
-      "stars": 196,
+      "stars": 197,
       "topics": [
         "ai-video",
         "ai-video-generator",
@@ -979,7 +1017,7 @@
         "wan"
       ]
     },
-    "original_repository_sha": "15e4ddc7132f8e045190b5bb18317106bd0b92d5",
+    "original_repository_sha": "8c7302469124534273aba50efbaded52a4488df6",
     "enhanced_repository": "enhansome/enhansome-ai-video-models",
     "enhanced_repository_description": null,
     "title": "Awesome AI Video Models with stars"
