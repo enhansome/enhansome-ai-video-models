@@ -19,7 +19,7 @@
             "open_issues": 39,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 29515,
+            "stars": 29541,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 2049,
+            "stars": 2056,
             "topics": [
               "ai",
               "ai-agents",
@@ -145,7 +145,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 520,
+            "stars": 521,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -229,7 +229,7 @@
             "open_issues": 5,
             "owner": "Anil-matcha",
             "repo": "awesome-seedance-2.5-api-prompts",
-            "stars": 318,
+            "stars": 320,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -313,7 +313,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "awesome-flux-3-api-prompts",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "ai-image-generation",
               "ai-video",
@@ -397,7 +397,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Kling-4.0-Flash-API",
-            "stars": 56,
+            "stars": 57,
             "topics": [
               "ai-video-generation",
               "api-client",
@@ -439,7 +439,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "MiniMax-H3-API",
-            "stars": 50,
+            "stars": 51,
             "topics": [
               "ai-tools",
               "ai-video",
@@ -565,7 +565,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-video-models",
-            "stars": 12,
+            "stars": 14,
             "topics": [
               "ai",
               "ai-models",
@@ -667,6 +667,44 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-uncensored-ai-models",
+          "description": "Index of the LLM, image, and video filtering-focused model catalogs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Index of source-tracked low-filter, abliterated, and community-reported language, image, and video model catalogs",
+            "homepage": null,
+            "id": 1394685786,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-29T08:09:03Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "awesome-uncensored-ai-models",
+            "stars": 4,
+            "topics": [
+              "ai-model-catalog",
+              "ai-models",
+              "awesome-list",
+              "generative-ai",
+              "image-generation",
+              "language-models",
+              "machine-learning",
+              "model-comparison",
+              "open-source-ai",
+              "open-weight-models",
+              "uncensored-ai",
+              "uncensored-image-models",
+              "uncensored-llm",
+              "uncensored-models",
+              "uncensored-video-models",
+              "video-generation"
+            ]
+          },
+          "first_seen": "2026-09-29T19:50:12.545Z"
+        },
+        {
+          "node_type": "item",
           "title": "Seedance-2.5-Spicy-API",
           "description": "Python SDK and MCP server for the relaxed-moderation Seedance 2.5 Spicy tier.",
           "children": [],
@@ -748,44 +786,6 @@
             ]
           },
           "first_seen": "2026-08-28T23:53:23.461Z"
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-uncensored-ai-models",
-          "description": "Index of the LLM, image, and video filtering-focused model catalogs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Index of source-tracked low-filter, abliterated, and community-reported language, image, and video model catalogs",
-            "homepage": null,
-            "id": 1394685786,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-29T08:09:03Z",
-            "open_issues": 0,
-            "owner": "Anil-matcha",
-            "repo": "awesome-uncensored-ai-models",
-            "stars": 3,
-            "topics": [
-              "ai-model-catalog",
-              "ai-models",
-              "awesome-list",
-              "generative-ai",
-              "image-generation",
-              "language-models",
-              "machine-learning",
-              "model-comparison",
-              "open-source-ai",
-              "open-weight-models",
-              "uncensored-ai",
-              "uncensored-image-models",
-              "uncensored-llm",
-              "uncensored-models",
-              "uncensored-video-models",
-              "video-generation"
-            ]
-          },
-          "first_seen": "2026-09-29T19:50:12.545Z"
         },
         {
           "node_type": "item",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T20:10:55.099Z",
+    "last_updated": "2026-10-02T19:47:25.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
@@ -993,7 +993,7 @@
       "open_issues": 12,
       "owner": "Anil-matcha",
       "repo": "awesome-ai-video-models",
-      "stars": 197,
+      "stars": 199,
       "topics": [
         "ai-video",
         "ai-video-generator",
