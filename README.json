@@ -19,7 +19,7 @@
             "open_issues": 39,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 29574,
+            "stars": 29619,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 2061,
+            "stars": 2064,
             "topics": [
               "ai",
               "ai-agents",
@@ -145,7 +145,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 521,
+            "stars": 522,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -565,7 +565,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-video-models",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "ai",
               "ai-models",
@@ -649,7 +649,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "wan-3.0-comfyui",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "ai-video",
               "comfyui",
@@ -677,7 +677,7 @@
             "id": 1394685786,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T08:09:03Z",
+            "last_commit": "2026-10-04T08:36:22Z",
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-models",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:34:31.272Z",
+    "last_updated": "2026-10-04T18:33:37.710Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
