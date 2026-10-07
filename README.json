@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T19:06:23Z",
-            "open_issues": 42,
+            "last_commit": "2026-10-07T07:45:02Z",
+            "open_issues": 37,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 29734,
+            "stars": 29799,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -103,7 +103,7 @@
             "open_issues": 2,
             "owner": "SamurAIGPT",
             "repo": "Text-To-Video-AI",
-            "stars": 835,
+            "stars": 837,
             "topics": [
               "ai-api",
               "ai-tools",
@@ -183,7 +183,7 @@
             "id": 786160729,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-28T12:58:08Z",
+            "last_commit": "2026-10-06T21:47:20Z",
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Seedance-2-API",
@@ -225,7 +225,7 @@
             "id": 656732726,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-28T12:58:10Z",
+            "last_commit": "2026-10-06T21:47:20Z",
             "open_issues": 5,
             "owner": "Anil-matcha",
             "repo": "awesome-seedance-2.5-api-prompts",
@@ -477,7 +477,7 @@
             "id": 1310314499,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-23T14:32:27Z",
+            "last_commit": "2026-10-06T21:47:20Z",
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Seedance-3-API",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T20:01:07.931Z",
+    "last_updated": "2026-10-07T20:26:37.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
@@ -993,7 +993,7 @@
       "open_issues": 12,
       "owner": "Anil-matcha",
       "repo": "awesome-ai-video-models",
-      "stars": 199,
+      "stars": 200,
       "topics": [
         "ai-video",
         "ai-video-generator",
