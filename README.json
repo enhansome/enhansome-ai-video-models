@@ -19,7 +19,7 @@
             "open_issues": 39,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 29936,
+            "stars": 30008,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 2074,
+            "stars": 2079,
             "topics": [
               "ai",
               "ai-agents",
@@ -103,7 +103,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 525,
+            "stars": 527,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -852,6 +852,48 @@
         },
         {
           "node_type": "item",
+          "title": "Text-To-Video-AI",
+          "description": "generate a finished video from a text prompt end-to-end",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Generate video from text using AI",
+            "homepage": "https://www.vadoo.tv/text-to-video-ai",
+            "id": 1409906698,
+            "language": "Jupyter Notebook",
+            "license": "MIT",
+            "last_commit": "2026-10-08T19:17:15Z",
+            "open_issues": 0,
+            "owner": "SamurAIGPT",
+            "repo": "Text-To-Video-AI",
+            "stars": 2,
+            "topics": [
+              "ai-api",
+              "ai-tools",
+              "ai-video",
+              "ai-video-generator",
+              "artificial-intelligence",
+              "generative-ai",
+              "image-to-video",
+              "image-to-video-generation",
+              "kling",
+              "muapi",
+              "nextjs",
+              "open-source",
+              "saas",
+              "sora",
+              "text-to-video",
+              "text-to-video-generation",
+              "veo",
+              "video-diffusion",
+              "video-editing",
+              "video-generation"
+            ]
+          },
+          "first_seen": "2026-10-09T20:00:45.870Z"
+        },
+        {
+          "node_type": "item",
           "title": "Video-Utilities-API",
           "description": "compare Muapi video upscaling and video-to-audio post-production endpoints.",
           "children": [],
@@ -891,48 +933,6 @@
             ]
           },
           "first_seen": "2026-08-28T23:53:23.461Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Text-To-Video-AI",
-          "description": "generate a finished video from a text prompt end-to-end",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Generate video from text using AI",
-            "homepage": "https://www.vadoo.tv/text-to-video-ai",
-            "id": 1409906698,
-            "language": "Jupyter Notebook",
-            "license": "MIT",
-            "last_commit": "2026-10-08T19:17:15Z",
-            "open_issues": 0,
-            "owner": "SamurAIGPT",
-            "repo": "Text-To-Video-AI",
-            "stars": 1,
-            "topics": [
-              "ai-api",
-              "ai-tools",
-              "ai-video",
-              "ai-video-generator",
-              "artificial-intelligence",
-              "generative-ai",
-              "image-to-video",
-              "image-to-video-generation",
-              "kling",
-              "muapi",
-              "nextjs",
-              "open-source",
-              "saas",
-              "sora",
-              "text-to-video",
-              "text-to-video-generation",
-              "veo",
-              "video-diffusion",
-              "video-editing",
-              "video-generation"
-            ]
-          },
-          "first_seen": "2026-10-09T20:00:45.870Z"
         },
         {
           "node_type": "item",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:00:45.870Z",
+    "last_updated": "2026-10-10T19:08:53.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
@@ -993,7 +993,7 @@
       "open_issues": 13,
       "owner": "Anil-matcha",
       "repo": "awesome-ai-video-models",
-      "stars": 200,
+      "stars": 201,
       "topics": [
         "ai-video",
         "ai-video-generator",
