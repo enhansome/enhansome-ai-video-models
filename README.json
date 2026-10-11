@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T11:07:56Z",
+            "last_commit": "2026-10-11T11:18:40Z",
             "open_issues": 39,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 30008,
+            "stars": 30079,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 2079,
+            "stars": 2082,
             "topics": [
               "ai",
               "ai-agents",
@@ -103,7 +103,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 527,
+            "stars": 528,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -187,7 +187,7 @@
             "open_issues": 5,
             "owner": "Anil-matcha",
             "repo": "awesome-seedance-2.5-api-prompts",
-            "stars": 321,
+            "stars": 322,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -397,7 +397,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "MiniMax-H3-API",
-            "stars": 51,
+            "stars": 52,
             "topics": [
               "ai-tools",
               "ai-video",
@@ -523,7 +523,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-video-models",
-            "stars": 16,
+            "stars": 17,
             "topics": [
               "ai",
               "ai-models",
@@ -789,6 +789,48 @@
         },
         {
           "node_type": "item",
+          "title": "Text-To-Video-AI",
+          "description": "generate a finished video from a text prompt end-to-end",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Generate video from text using AI",
+            "homepage": "https://www.vadoo.tv/text-to-video-ai",
+            "id": 1409906698,
+            "language": "Jupyter Notebook",
+            "license": "MIT",
+            "last_commit": "2026-10-08T19:17:15Z",
+            "open_issues": 0,
+            "owner": "SamurAIGPT",
+            "repo": "Text-To-Video-AI",
+            "stars": 3,
+            "topics": [
+              "ai-api",
+              "ai-tools",
+              "ai-video",
+              "ai-video-generator",
+              "artificial-intelligence",
+              "generative-ai",
+              "image-to-video",
+              "image-to-video-generation",
+              "kling",
+              "muapi",
+              "nextjs",
+              "open-source",
+              "saas",
+              "sora",
+              "text-to-video",
+              "text-to-video-generation",
+              "veo",
+              "video-diffusion",
+              "video-editing",
+              "video-generation"
+            ]
+          },
+          "first_seen": "2026-10-09T20:00:45.870Z"
+        },
+        {
+          "node_type": "item",
           "title": "awesome-gemini-4-pro",
           "description": "frontier Gemini use cases covering multimodal, visual, and agent workflows.",
           "children": [],
@@ -849,48 +891,6 @@
             "topics": []
           },
           "first_seen": "2026-09-28T21:06:28.874Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Text-To-Video-AI",
-          "description": "generate a finished video from a text prompt end-to-end",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Generate video from text using AI",
-            "homepage": "https://www.vadoo.tv/text-to-video-ai",
-            "id": 1409906698,
-            "language": "Jupyter Notebook",
-            "license": "MIT",
-            "last_commit": "2026-10-08T19:17:15Z",
-            "open_issues": 0,
-            "owner": "SamurAIGPT",
-            "repo": "Text-To-Video-AI",
-            "stars": 2,
-            "topics": [
-              "ai-api",
-              "ai-tools",
-              "ai-video",
-              "ai-video-generator",
-              "artificial-intelligence",
-              "generative-ai",
-              "image-to-video",
-              "image-to-video-generation",
-              "kling",
-              "muapi",
-              "nextjs",
-              "open-source",
-              "saas",
-              "sora",
-              "text-to-video",
-              "text-to-video-generation",
-              "veo",
-              "video-diffusion",
-              "video-editing",
-              "video-generation"
-            ]
-          },
-          "first_seen": "2026-10-09T20:00:45.870Z"
         },
         {
           "node_type": "item",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T19:08:53.969Z",
+    "last_updated": "2026-10-11T19:22:44.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
