@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T11:18:40Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-12T18:55:03Z",
+            "open_issues": 41,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 30079,
+            "stars": 30154,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 2082,
+            "stars": 2085,
             "topics": [
               "ai",
               "ai-agents",
@@ -103,7 +103,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 528,
+            "stars": 529,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -145,7 +145,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Seedance-2-API",
-            "stars": 352,
+            "stars": 353,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -187,7 +187,7 @@
             "open_issues": 5,
             "owner": "Anil-matcha",
             "repo": "awesome-seedance-2.5-api-prompts",
-            "stars": 322,
+            "stars": 323,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -481,7 +481,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-minimax-h3-prompts",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -523,7 +523,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-video-models",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "ai",
               "ai-models",
@@ -800,7 +800,7 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-10-08T19:17:15Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "SamurAIGPT",
             "repo": "Text-To-Video-AI",
             "stars": 3,
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T19:22:44.062Z",
+    "last_updated": "2026-10-12T22:24:59.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
@@ -990,10 +990,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-29T08:06:27Z",
-      "open_issues": 13,
+      "open_issues": 12,
       "owner": "Anil-matcha",
       "repo": "awesome-ai-video-models",
-      "stars": 201,
+      "stars": 202,
       "topics": [
         "ai-video",
         "ai-video-generator",
