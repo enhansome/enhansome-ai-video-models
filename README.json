@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T18:55:03Z",
-            "open_issues": 41,
+            "last_commit": "2026-10-13T17:52:56Z",
+            "open_issues": 43,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 30154,
+            "stars": 30224,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 2085,
+            "stars": 2089,
             "topics": [
               "ai",
               "ai-agents",
@@ -103,7 +103,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 529,
+            "stars": 530,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -397,7 +397,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "MiniMax-H3-API",
-            "stars": 52,
+            "stars": 53,
             "topics": [
               "ai-tools",
               "ai-video",
@@ -639,7 +639,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-models",
-            "stars": 5,
+            "stars": 6,
             "topics": [
               "ai-model-catalog",
               "ai-models",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:24:59.057Z",
+    "last_updated": "2026-10-13T20:32:07.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
@@ -990,10 +990,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-29T08:06:27Z",
-      "open_issues": 12,
+      "open_issues": 13,
       "owner": "Anil-matcha",
       "repo": "awesome-ai-video-models",
-      "stars": 202,
+      "stars": 203,
       "topics": [
         "ai-video",
         "ai-video-generator",
