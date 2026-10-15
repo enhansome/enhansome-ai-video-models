@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T17:52:56Z",
+            "last_commit": "2026-10-15T09:55:05Z",
             "open_issues": 41,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 30349,
+            "stars": 30451,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -47,48 +47,6 @@
         },
         {
           "node_type": "item",
-          "title": "ai-creator-academy",
-          "description": "free curriculum teaching creators how to monetize the models compared in this list",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Free, open-source curriculum for making money with generative AI image, video, and audio — for creators and agencies.",
-            "homepage": null,
-            "id": 636553615,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-08-21T10:44:13Z",
-            "open_issues": 0,
-            "owner": "Anil-matcha",
-            "repo": "ai-creator-academy",
-            "stars": 2091,
-            "topics": [
-              "ai",
-              "ai-agents",
-              "ai-audio",
-              "ai-avatars",
-              "ai-filmmaking",
-              "ai-image",
-              "ai-influencer",
-              "ai-tools",
-              "ai-video",
-              "content-creation",
-              "creator-economy",
-              "curriculum",
-              "faceless-youtube",
-              "freelancing",
-              "generative-ai",
-              "make-money-online",
-              "open-source",
-              "print-on-demand",
-              "ugc-ads",
-              "vibe-coding"
-            ]
-          },
-          "first_seen": "2026-08-28T23:53:23.461Z"
-        },
-        {
-          "node_type": "item",
           "title": "Open-AI-Micro-Drama-Generator",
           "description": "multi-scene AI micro-drama pipeline",
           "children": [],
@@ -103,7 +61,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 529,
+            "stars": 533,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -187,7 +145,7 @@
             "open_issues": 5,
             "owner": "Anil-matcha",
             "repo": "awesome-seedance-2.5-api-prompts",
-            "stars": 323,
+            "stars": 324,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -519,11 +477,11 @@
             "id": 1324407874,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T18:36:06Z",
+            "last_commit": "2026-10-15T08:17:19Z",
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-video-models",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "ai",
               "ai-models",
@@ -593,38 +551,6 @@
         },
         {
           "node_type": "item",
-          "title": "wan-3.0-comfyui",
-          "description": "ComfyUI custom nodes for Wan 3.0 text-to-image, image edit, text-to-video, and image-to-video via MuAPI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "ComfyUI custom nodes for Wan 3.0 — text-to-image, image edit, text-to-video, and image-to-video via MuAPI.",
-            "homepage": null,
-            "id": 1323231325,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-03T17:24:10Z",
-            "open_issues": 0,
-            "owner": "Anil-matcha",
-            "repo": "wan-3.0-comfyui",
-            "stars": 8,
-            "topics": [
-              "ai-video",
-              "comfyui",
-              "comfyui-nodes",
-              "generative-ai",
-              "image-to-video",
-              "muapi",
-              "text-to-image",
-              "text-to-video",
-              "wan",
-              "wan-3-0"
-            ]
-          },
-          "first_seen": "2026-08-28T23:53:23.461Z"
-        },
-        {
-          "node_type": "item",
           "title": "awesome-uncensored-ai-models",
           "description": "Index of the LLM, image, and video filtering-focused model catalogs",
           "children": [],
@@ -639,7 +565,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-models",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "ai-model-catalog",
               "ai-models",
@@ -660,6 +586,38 @@
             ]
           },
           "first_seen": "2026-09-29T19:50:12.545Z"
+        },
+        {
+          "node_type": "item",
+          "title": "wan-3.0-comfyui",
+          "description": "ComfyUI custom nodes for Wan 3.0 text-to-image, image edit, text-to-video, and image-to-video via MuAPI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ComfyUI custom nodes for Wan 3.0 — text-to-image, image edit, text-to-video, and image-to-video via MuAPI.",
+            "homepage": null,
+            "id": 1323231325,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-15T08:17:13Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "wan-3.0-comfyui",
+            "stars": 8,
+            "topics": [
+              "ai-video",
+              "comfyui",
+              "comfyui-nodes",
+              "generative-ai",
+              "image-to-video",
+              "muapi",
+              "text-to-image",
+              "text-to-video",
+              "wan",
+              "wan-3-0"
+            ]
+          },
+          "first_seen": "2026-08-28T23:53:23.461Z"
         },
         {
           "node_type": "item",
@@ -831,6 +789,48 @@
         },
         {
           "node_type": "item",
+          "title": "ai-creator-academy",
+          "description": "free curriculum teaching creators how to monetize the models compared in this list",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free, open-source curriculum for making money with generative AI image, video, and audio — for creators and agencies.",
+            "homepage": null,
+            "id": 1408607431,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-15T03:57:04Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "ai-creator-academy",
+            "stars": 3,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-audio",
+              "ai-avatars",
+              "ai-filmmaking",
+              "ai-image",
+              "ai-influencer",
+              "ai-tools",
+              "ai-video",
+              "content-creation",
+              "creator-economy",
+              "curriculum",
+              "faceless-youtube",
+              "freelancing",
+              "generative-ai",
+              "make-money-online",
+              "open-source",
+              "print-on-demand",
+              "ugc-ads",
+              "vibe-coding"
+            ]
+          },
+          "first_seen": "2026-10-15T18:55:00.188Z"
+        },
+        {
+          "node_type": "item",
           "title": "awesome-gemini-4-pro",
           "description": "frontier Gemini use cases covering multimodal, visual, and agent workflows.",
           "children": [],
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T19:12:12.390Z",
+    "last_updated": "2026-10-15T18:55:00.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
