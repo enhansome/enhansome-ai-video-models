@@ -19,7 +19,7 @@
             "open_issues": 41,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 30554,
+            "stars": 30659,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 535,
+            "stars": 536,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -103,7 +103,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Seedance-2-API",
-            "stars": 356,
+            "stars": 358,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -425,6 +425,48 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-uncensored-ai-video-models",
+          "description": "Filtering-, access-, and licensing-focused companion catalog for local and hosted video model variants",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A community-maintained catalog of open, low-filter, and community-reported AI video models, checkpoints, adapters, and endpoints.",
+            "homepage": null,
+            "id": 1324407874,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-15T08:17:19Z",
+            "open_issues": 1,
+            "owner": "Anil-matcha",
+            "repo": "awesome-uncensored-ai-video-models",
+            "stars": 22,
+            "topics": [
+              "ai",
+              "ai-models",
+              "ai-video",
+              "artificial-intelligence",
+              "deep-learning",
+              "diffusion-models",
+              "generative-ai",
+              "image-to-video",
+              "image-to-video-models",
+              "machine-learning",
+              "model-comparison",
+              "open-source",
+              "open-weights",
+              "text-to-video",
+              "text-to-video-models",
+              "uncensored-ai",
+              "video-editing",
+              "video-generation",
+              "video-generation-models",
+              "video-models"
+            ]
+          },
+          "first_seen": "2026-08-28T23:53:23.461Z"
+        },
+        {
+          "node_type": "item",
           "title": "awesome-minimax-h3-prompts",
           "description": "Prompt gallery with runnable MiniMax H3 video examples.",
           "children": [],
@@ -461,48 +503,6 @@
               "video-generation",
               "video-prompts",
               "video-synthesis"
-            ]
-          },
-          "first_seen": "2026-08-28T23:53:23.461Z"
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-uncensored-ai-video-models",
-          "description": "Filtering-, access-, and licensing-focused companion catalog for local and hosted video model variants",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A community-maintained catalog of open, low-filter, and community-reported AI video models, checkpoints, adapters, and endpoints.",
-            "homepage": null,
-            "id": 1324407874,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-15T08:17:19Z",
-            "open_issues": 0,
-            "owner": "Anil-matcha",
-            "repo": "awesome-uncensored-ai-video-models",
-            "stars": 20,
-            "topics": [
-              "ai",
-              "ai-models",
-              "ai-video",
-              "artificial-intelligence",
-              "deep-learning",
-              "diffusion-models",
-              "generative-ai",
-              "image-to-video",
-              "image-to-video-models",
-              "machine-learning",
-              "model-comparison",
-              "open-source",
-              "open-weights",
-              "text-to-video",
-              "text-to-video-models",
-              "uncensored-ai",
-              "video-editing",
-              "video-generation",
-              "video-generation-models",
-              "video-models"
             ]
           },
           "first_seen": "2026-08-28T23:53:23.461Z"
@@ -663,6 +663,48 @@
         },
         {
           "node_type": "item",
+          "title": "ai-creator-academy",
+          "description": "free curriculum teaching creators how to monetize the models compared in this list",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free, open-source curriculum for making money with generative AI image, video, and audio — for creators and agencies.",
+            "homepage": null,
+            "id": 1408607431,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-15T03:57:04Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "ai-creator-academy",
+            "stars": 4,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-audio",
+              "ai-avatars",
+              "ai-filmmaking",
+              "ai-image",
+              "ai-influencer",
+              "ai-tools",
+              "ai-video",
+              "content-creation",
+              "creator-economy",
+              "curriculum",
+              "faceless-youtube",
+              "freelancing",
+              "generative-ai",
+              "make-money-online",
+              "open-source",
+              "print-on-demand",
+              "ugc-ads",
+              "vibe-coding"
+            ]
+          },
+          "first_seen": "2026-10-15T18:55:00.188Z"
+        },
+        {
+          "node_type": "item",
           "title": "Gemini-Omni-1.1-Flash-API",
           "description": "Python SDK and MCP server for Google's newly announced Gemini Omni 1.1 Flash update.",
           "children": [],
@@ -786,48 +828,6 @@
             ]
           },
           "first_seen": "2026-10-09T20:00:45.870Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ai-creator-academy",
-          "description": "free curriculum teaching creators how to monetize the models compared in this list",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Free, open-source curriculum for making money with generative AI image, video, and audio — for creators and agencies.",
-            "homepage": null,
-            "id": 1408607431,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-10-15T03:57:04Z",
-            "open_issues": 0,
-            "owner": "Anil-matcha",
-            "repo": "ai-creator-academy",
-            "stars": 3,
-            "topics": [
-              "ai",
-              "ai-agents",
-              "ai-audio",
-              "ai-avatars",
-              "ai-filmmaking",
-              "ai-image",
-              "ai-influencer",
-              "ai-tools",
-              "ai-video",
-              "content-creation",
-              "creator-economy",
-              "curriculum",
-              "faceless-youtube",
-              "freelancing",
-              "generative-ai",
-              "make-money-online",
-              "open-source",
-              "print-on-demand",
-              "ugc-ads",
-              "vibe-coding"
-            ]
-          },
-          "first_seen": "2026-10-15T18:55:00.188Z"
         },
         {
           "node_type": "item",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:39:49.688Z",
+    "last_updated": "2026-10-17T17:47:14.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
@@ -993,7 +993,7 @@
       "open_issues": 0,
       "owner": "Anil-matcha",
       "repo": "awesome-ai-video-models",
-      "stars": 207,
+      "stars": 206,
       "topics": [
         "ai-video",
         "ai-video-generator",
