@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T09:55:05Z",
-            "open_issues": 42,
+            "last_commit": "2026-10-19T19:58:17Z",
+            "open_issues": 45,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 30755,
+            "stars": 30886,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -183,7 +183,7 @@
             "id": 819971354,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-28T07:21:04Z",
+            "last_commit": "2026-10-19T15:40:28Z",
             "open_issues": 3,
             "owner": "Anil-matcha",
             "repo": "Flux-3-Dev-API",
@@ -225,7 +225,7 @@
             "id": 798330044,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-20T08:13:28Z",
+            "last_commit": "2026-10-19T15:40:28Z",
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "awesome-flux-3-api-prompts",
@@ -313,7 +313,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Kling-4.0-Flash-API",
-            "stars": 57,
+            "stars": 58,
             "topics": [
               "ai-video-generation",
               "api-client",
@@ -355,7 +355,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "MiniMax-H3-API",
-            "stars": 53,
+            "stars": 54,
             "topics": [
               "ai-tools",
               "ai-video",
@@ -439,7 +439,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-video-models",
-            "stars": 22,
+            "stars": 23,
             "topics": [
               "ai",
               "ai-models",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T17:52:15.011Z",
+    "last_updated": "2026-10-19T20:24:29.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
