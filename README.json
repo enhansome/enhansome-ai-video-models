@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 31243,
+            "stars": 31332,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 546,
+            "stars": 545,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -103,7 +103,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Seedance-2-API",
-            "stars": 359,
+            "stars": 360,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -439,7 +439,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-video-models",
-            "stars": 25,
+            "stars": 26,
             "topics": [
               "ai",
               "ai-models",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T19:04:16.615Z",
+    "last_updated": "2026-10-23T18:54:21.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
