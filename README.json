@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T18:33:42Z",
-            "open_issues": 42,
+            "last_commit": "2026-10-24T10:44:32Z",
+            "open_issues": 43,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 31332,
+            "stars": 31406,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 545,
+            "stars": 547,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -184,10 +184,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-19T15:40:28Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "Anil-matcha",
             "repo": "Flux-3-Dev-API",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "ai-image",
               "ai-image-generation",
@@ -439,7 +439,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-video-models",
-            "stars": 26,
+            "stars": 27,
             "topics": [
               "ai",
               "ai-models",
@@ -551,6 +551,38 @@
         },
         {
           "node_type": "item",
+          "title": "wan-3.0-comfyui",
+          "description": "ComfyUI custom nodes for Wan 3.0 text-to-image, image edit, text-to-video, and image-to-video via MuAPI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ComfyUI custom nodes for Wan 3.0 — text-to-image, image edit, text-to-video, and image-to-video via MuAPI.",
+            "homepage": null,
+            "id": 1323231325,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-15T08:17:13Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "wan-3.0-comfyui",
+            "stars": 9,
+            "topics": [
+              "ai-video",
+              "comfyui",
+              "comfyui-nodes",
+              "generative-ai",
+              "image-to-video",
+              "muapi",
+              "text-to-image",
+              "text-to-video",
+              "wan",
+              "wan-3-0"
+            ]
+          },
+          "first_seen": "2026-08-28T23:53:23.461Z"
+        },
+        {
+          "node_type": "item",
           "title": "awesome-uncensored-ai-models",
           "description": "Index of the LLM, image, and video filtering-focused model catalogs",
           "children": [],
@@ -589,38 +621,6 @@
         },
         {
           "node_type": "item",
-          "title": "wan-3.0-comfyui",
-          "description": "ComfyUI custom nodes for Wan 3.0 text-to-image, image edit, text-to-video, and image-to-video via MuAPI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "ComfyUI custom nodes for Wan 3.0 — text-to-image, image edit, text-to-video, and image-to-video via MuAPI.",
-            "homepage": null,
-            "id": 1323231325,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-15T08:17:13Z",
-            "open_issues": 0,
-            "owner": "Anil-matcha",
-            "repo": "wan-3.0-comfyui",
-            "stars": 8,
-            "topics": [
-              "ai-video",
-              "comfyui",
-              "comfyui-nodes",
-              "generative-ai",
-              "image-to-video",
-              "muapi",
-              "text-to-image",
-              "text-to-video",
-              "wan",
-              "wan-3-0"
-            ]
-          },
-          "first_seen": "2026-08-28T23:53:23.461Z"
-        },
-        {
-          "node_type": "item",
           "title": "ai-creator-academy",
           "description": "free curriculum teaching creators how to monetize the models compared in this list",
           "children": [],
@@ -632,7 +632,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-15T03:57:04Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
             "stars": 6,
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T18:54:21.876Z",
+    "last_updated": "2026-10-24T17:55:06.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
