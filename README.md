@@ -18,10 +18,10 @@ Unlike other lists that just dump links, this one answers the question developer
 
 ## Related Projects
 
-* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 31,406 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-24 — curated hub of open generative-media tools and pipelines
+* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 31,500 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-24 — curated hub of open generative-media tools and pipelines
 * [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) ⭐ 547 | 🐛 2 | 🌐 Python | 📅 2026-08-02 — multi-scene AI micro-drama pipeline
 * [Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) ⭐ 360 | 🐛 1 | 🌐 Python | 📅 2026-10-06 — Python wrapper for ByteDance Seedance 2
-* [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) ⭐ 324 | 🐛 5 | 📅 2026-10-06 — prompt library for Seedance 2.5
+* [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) ⭐ 325 | 🐛 5 | 📅 2026-10-06 — prompt library for Seedance 2.5
 * [Flux-3-Dev-API](https://github.com/Anil-matcha/Flux-3-Dev-API) ⭐ 185 | 🐛 4 | 🌐 Python | 📅 2026-10-19 — Python wrapper for Black Forest Labs' FLUX 3 (Dev variant) — text-to-image, image-to-image, text-to-video, image-to-video
 * [awesome-flux-3-api-prompts](https://github.com/Anil-matcha/awesome-flux-3-api-prompts) ⭐ 147 | 🐛 2 | 📅 2026-10-19 — FLUX 3 API guide, prompts, and parameters
 * [Wan-3.0-API](https://github.com/Anil-matcha/Wan-3.0-API) ⭐ 80 | 🐛 0 | 🌐 Python | 📅 2026-10-01 — Python SDK and MCP server for Wan 3.0-compatible video generation.
@@ -169,8 +169,8 @@ PRs welcome. When adding a model, keep the table columns filled — **a row with
 
 ***
 
-*Maintained alongside [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 31,406 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-24. Found it useful? ⭐ the repo.*
+*Maintained alongside [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 31,500 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-24. Found it useful? ⭐ the repo.*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._

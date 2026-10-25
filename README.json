@@ -19,7 +19,7 @@
             "open_issues": 43,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 31406,
+            "stars": 31500,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -145,7 +145,7 @@
             "open_issues": 5,
             "owner": "Anil-matcha",
             "repo": "awesome-seedance-2.5-api-prompts",
-            "stars": 324,
+            "stars": 325,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:55:06.904Z",
+    "last_updated": "2026-10-25T18:13:12.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
