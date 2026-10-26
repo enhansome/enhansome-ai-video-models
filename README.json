@@ -19,7 +19,7 @@
             "open_issues": 43,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 31500,
+            "stars": 31593,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 547,
+            "stars": 548,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -355,7 +355,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "MiniMax-H3-API",
-            "stars": 55,
+            "stars": 56,
             "topics": [
               "ai-tools",
               "ai-video",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T18:13:12.457Z",
+    "last_updated": "2026-10-26T20:20:10.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
@@ -990,7 +990,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-29T08:06:27Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "Anil-matcha",
       "repo": "awesome-ai-video-models",
       "stars": 206,
