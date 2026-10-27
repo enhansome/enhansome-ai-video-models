@@ -18,8 +18,8 @@ Unlike other lists that just dump links, this one answers the question developer
 
 ## Related Projects
 
-* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 31,593 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-24 — curated hub of open generative-media tools and pipelines
-* [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) ⭐ 548 | 🐛 2 | 🌐 Python | 📅 2026-08-02 — multi-scene AI micro-drama pipeline
+* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 31,654 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-24 — curated hub of open generative-media tools and pipelines
+* [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) ⭐ 549 | 🐛 2 | 🌐 Python | 📅 2026-08-02 — multi-scene AI micro-drama pipeline
 * [Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) ⭐ 360 | 🐛 1 | 🌐 Python | 📅 2026-10-06 — Python wrapper for ByteDance Seedance 2
 * [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) ⭐ 325 | 🐛 5 | 📅 2026-10-06 — prompt library for Seedance 2.5
 * [Flux-3-Dev-API](https://github.com/Anil-matcha/Flux-3-Dev-API) ⭐ 185 | 🐛 4 | 🌐 Python | 📅 2026-10-19 — Python wrapper for Black Forest Labs' FLUX 3 (Dev variant) — text-to-image, image-to-image, text-to-video, image-to-video
@@ -36,9 +36,9 @@ Unlike other lists that just dump links, this one answers the question developer
 * [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 6 | 🐛 1 | 📅 2026-10-15 — free curriculum teaching creators how to monetize the models compared in this list
 * [Seedance-2.5-Spicy-API](https://github.com/Anil-matcha/Seedance-2.5-Spicy-API) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-09-28 — Python SDK and MCP server for the relaxed-moderation Seedance 2.5 Spicy tier.
 * [Wan-3.0-Spicy-API](https://github.com/Anil-matcha/Wan-3.0-Spicy-API) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-09-28 — Python SDK and MCP server for the relaxed-moderation Wan 3.0 Spicy tier.
+* [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) ⭐ 4 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-10-08 — generate a finished video from a text prompt end-to-end
 * [Gemini-Omni-1.1-Flash-API](https://github.com/Anil-matcha/Gemini-Omni-1.1-Flash-API) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-08-27 — Python SDK and MCP server for Google's newly announced Gemini Omni 1.1 Flash update.
 * [Wan-3.0-Prime-API](https://github.com/Anil-matcha/Wan-3.0-Prime-API) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-09-28 — Python SDK and MCP server for the higher-fidelity Wan 3.0 Prime tier.
-* [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) ⭐ 3 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-10-08 — generate a finished video from a text prompt end-to-end
 * [awesome-gemini-4-pro](https://github.com/Anil-matcha/awesome-gemini-4-pro) ⭐ 3 | 🐛 0 | 📅 2026-09-18 — frontier Gemini use cases covering multimodal, visual, and agent workflows.
 * [Seedance-2-Spicy-API](https://github.com/Anil-matcha/Seedance-2-Spicy-API) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-09-28 — Python SDK and MCP server for the relaxed-moderation Seedance 2 Spicy / 2 Mini Spicy tier.
 * [Video-Utilities-API](https://github.com/Anil-matcha/Video-Utilities-API) ⭐ 2 | 🐛 0 | 📅 2026-10-01 — compare Muapi video upscaling and video-to-audio post-production endpoints.
@@ -142,7 +142,7 @@ Post-process generated (or real) footage — upscale, interpolate, denoise.
 
 Don't trust a maker's own demo reel — check independent evals before committing:
 
-* **[VBench / VBench-2.0](https://github.com/Vchitect/VBench) ⭐ 1,832 | 🐛 74 | 🌐 Python | 📅 2026-08-21** — 16-dimension automated quality benchmark
+* **[VBench / VBench-2.0](https://github.com/Vchitect/VBench) ⭐ 1,833 | 🐛 74 | 🌐 Python | 📅 2026-08-21** — 16-dimension automated quality benchmark
 * **Artificial Analysis Video Arena** — Elo-style human-preference leaderboard across commercial + open models
 * **Video-Bench** — human-aligned evaluation suite
 
@@ -169,8 +169,8 @@ PRs welcome. When adding a model, keep the table columns filled — **a row with
 
 ***
 
-*Maintained alongside [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 31,593 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-24. Found it useful? ⭐ the repo.*
+*Maintained alongside [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 31,654 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-24. Found it useful? ⭐ the repo.*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._

@@ -19,7 +19,7 @@
             "open_issues": 43,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 31593,
+            "stars": 31654,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 548,
+            "stars": 549,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -705,6 +705,48 @@
         },
         {
           "node_type": "item",
+          "title": "Text-To-Video-AI",
+          "description": "generate a finished video from a text prompt end-to-end",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Generate video from text using AI",
+            "homepage": "https://www.vadoo.tv/text-to-video-ai",
+            "id": 1409906698,
+            "language": "Jupyter Notebook",
+            "license": "MIT",
+            "last_commit": "2026-10-08T19:17:15Z",
+            "open_issues": 1,
+            "owner": "SamurAIGPT",
+            "repo": "Text-To-Video-AI",
+            "stars": 4,
+            "topics": [
+              "ai-api",
+              "ai-tools",
+              "ai-video",
+              "ai-video-generator",
+              "artificial-intelligence",
+              "generative-ai",
+              "image-to-video",
+              "image-to-video-generation",
+              "kling",
+              "muapi",
+              "nextjs",
+              "open-source",
+              "saas",
+              "sora",
+              "text-to-video",
+              "text-to-video-generation",
+              "veo",
+              "video-diffusion",
+              "video-editing",
+              "video-generation"
+            ]
+          },
+          "first_seen": "2026-10-09T20:00:45.870Z"
+        },
+        {
+          "node_type": "item",
           "title": "Gemini-Omni-1.1-Flash-API",
           "description": "Python SDK and MCP server for Google's newly announced Gemini Omni 1.1 Flash update.",
           "children": [],
@@ -786,48 +828,6 @@
             ]
           },
           "first_seen": "2026-08-28T23:53:23.461Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Text-To-Video-AI",
-          "description": "generate a finished video from a text prompt end-to-end",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Generate video from text using AI",
-            "homepage": "https://www.vadoo.tv/text-to-video-ai",
-            "id": 1409906698,
-            "language": "Jupyter Notebook",
-            "license": "MIT",
-            "last_commit": "2026-10-08T19:17:15Z",
-            "open_issues": 1,
-            "owner": "SamurAIGPT",
-            "repo": "Text-To-Video-AI",
-            "stars": 3,
-            "topics": [
-              "ai-api",
-              "ai-tools",
-              "ai-video",
-              "ai-video-generator",
-              "artificial-intelligence",
-              "generative-ai",
-              "image-to-video",
-              "image-to-video-generation",
-              "kling",
-              "muapi",
-              "nextjs",
-              "open-source",
-              "saas",
-              "sora",
-              "text-to-video",
-              "text-to-video-generation",
-              "veo",
-              "video-diffusion",
-              "video-editing",
-              "video-generation"
-            ]
-          },
-          "first_seen": "2026-10-09T20:00:45.870Z"
         },
         {
           "node_type": "item",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:20:10.348Z",
+    "last_updated": "2026-10-27T19:53:05.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
