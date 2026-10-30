@@ -19,7 +19,7 @@
             "open_issues": 45,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 31808,
+            "stars": 31879,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -481,7 +481,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-minimax-h3-prompts",
-            "stars": 23,
+            "stars": 25,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -548,6 +548,48 @@
             ]
           },
           "first_seen": "2026-08-28T23:53:23.461Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ai-creator-academy",
+          "description": "free curriculum teaching creators how to monetize the models compared in this list",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free, open-source curriculum for making money with generative AI image, video, and audio — for creators and agencies.",
+            "homepage": null,
+            "id": 1408607431,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-15T03:57:04Z",
+            "open_issues": 1,
+            "owner": "Anil-matcha",
+            "repo": "ai-creator-academy",
+            "stars": 10,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-audio",
+              "ai-avatars",
+              "ai-filmmaking",
+              "ai-image",
+              "ai-influencer",
+              "ai-tools",
+              "ai-video",
+              "content-creation",
+              "creator-economy",
+              "curriculum",
+              "faceless-youtube",
+              "freelancing",
+              "generative-ai",
+              "make-money-online",
+              "open-source",
+              "print-on-demand",
+              "ugc-ads",
+              "vibe-coding"
+            ]
+          },
+          "first_seen": "2026-10-15T18:55:00.188Z"
         },
         {
           "node_type": "item",
@@ -621,48 +663,6 @@
         },
         {
           "node_type": "item",
-          "title": "ai-creator-academy",
-          "description": "free curriculum teaching creators how to monetize the models compared in this list",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Free, open-source curriculum for making money with generative AI image, video, and audio — for creators and agencies.",
-            "homepage": null,
-            "id": 1408607431,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-10-15T03:57:04Z",
-            "open_issues": 1,
-            "owner": "Anil-matcha",
-            "repo": "ai-creator-academy",
-            "stars": 8,
-            "topics": [
-              "ai",
-              "ai-agents",
-              "ai-audio",
-              "ai-avatars",
-              "ai-filmmaking",
-              "ai-image",
-              "ai-influencer",
-              "ai-tools",
-              "ai-video",
-              "content-creation",
-              "creator-economy",
-              "curriculum",
-              "faceless-youtube",
-              "freelancing",
-              "generative-ai",
-              "make-money-online",
-              "open-source",
-              "print-on-demand",
-              "ugc-ads",
-              "vibe-coding"
-            ]
-          },
-          "first_seen": "2026-10-15T18:55:00.188Z"
-        },
-        {
-          "node_type": "item",
           "title": "Seedance-2.5-Spicy-API",
           "description": "Python SDK and MCP server for the relaxed-moderation Seedance 2.5 Spicy tier.",
           "children": [],
@@ -684,27 +684,6 @@
         },
         {
           "node_type": "item",
-          "title": "Wan-3.0-Spicy-API",
-          "description": "Python SDK and MCP server for the relaxed-moderation Wan 3.0 Spicy tier.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Python wrapper for Alibaba's Wan 3.0 Spicy API — bold high-motion video with synchronized audio and relaxed content moderation, via MuAPI.",
-            "homepage": null,
-            "id": 1392683456,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-28T12:42:03Z",
-            "open_issues": 0,
-            "owner": "Anil-matcha",
-            "repo": "Wan-3.0-Spicy-API",
-            "stars": 4,
-            "topics": []
-          },
-          "first_seen": "2026-09-28T21:06:28.874Z"
-        },
-        {
-          "node_type": "item",
           "title": "Text-To-Video-AI",
           "description": "generate a finished video from a text prompt end-to-end",
           "children": [],
@@ -719,7 +698,7 @@
             "open_issues": 1,
             "owner": "SamurAIGPT",
             "repo": "Text-To-Video-AI",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "ai-api",
               "ai-tools",
@@ -744,6 +723,27 @@
             ]
           },
           "first_seen": "2026-10-09T20:00:45.870Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Wan-3.0-Spicy-API",
+          "description": "Python SDK and MCP server for the relaxed-moderation Wan 3.0 Spicy tier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Python wrapper for Alibaba's Wan 3.0 Spicy API — bold high-motion video with synchronized audio and relaxed content moderation, via MuAPI.",
+            "homepage": null,
+            "id": 1392683456,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-28T12:42:03Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "Wan-3.0-Spicy-API",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-09-28T21:06:28.874Z"
         },
         {
           "node_type": "item",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T20:05:26.104Z",
+    "last_updated": "2026-10-30T19:52:12.562Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",

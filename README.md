@@ -18,7 +18,7 @@ Unlike other lists that just dump links, this one answers the question developer
 
 ## Related Projects
 
-* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 31,808 | 🐛 45 | 🌐 JavaScript | 📅 2026-10-29 — curated hub of open generative-media tools and pipelines
+* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 31,879 | 🐛 45 | 🌐 JavaScript | 📅 2026-10-29 — curated hub of open generative-media tools and pipelines
 * [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) ⭐ 551 | 🐛 2 | 🌐 Python | 📅 2026-08-02 — multi-scene AI micro-drama pipeline
 * [Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) ⭐ 361 | 🐛 1 | 🌐 Python | 📅 2026-10-06 — Python wrapper for ByteDance Seedance 2
 * [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) ⭐ 326 | 🐛 5 | 📅 2026-10-06 — prompt library for Seedance 2.5
@@ -29,14 +29,14 @@ Unlike other lists that just dump links, this one answers the question developer
 * [MiniMax-H3-API](https://github.com/Anil-matcha/MiniMax-H3-API) ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2026-10-01 — Python SDK for MiniMax H3 text-to-video, image-to-video, and first/last-frame video generation.
 * [Seedance-3-API](https://github.com/Anil-matcha/Seedance-3-API) ⭐ 38 | 🐛 0 | 📅 2026-10-06 — companion project for the next Seedance API generation.
 * [awesome-uncensored-ai-video-models](https://github.com/Anil-matcha/awesome-uncensored-ai-video-models) ⭐ 28 | 🐛 2 | 📅 2026-10-15 — Filtering-, access-, and licensing-focused companion catalog for local and hosted video model variants
-* [awesome-minimax-h3-prompts](https://github.com/Anil-matcha/awesome-minimax-h3-prompts) ⭐ 23 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15 — Prompt gallery with runnable MiniMax H3 video examples.
+* [awesome-minimax-h3-prompts](https://github.com/Anil-matcha/awesome-minimax-h3-prompts) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15 — Prompt gallery with runnable MiniMax H3 video examples.
 * [Veo-4-API](https://github.com/Anil-matcha/Veo-4-API) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-08-02 — Python wrapper for Google Veo 4
+* [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 10 | 🐛 1 | 📅 2026-10-15 — free curriculum teaching creators how to monetize the models compared in this list
 * [wan-3.0-comfyui](https://github.com/Anil-matcha/wan-3.0-comfyui) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-10-15 — ComfyUI custom nodes for Wan 3.0 text-to-image, image edit, text-to-video, and image-to-video via MuAPI.
 * [awesome-uncensored-ai-models](https://github.com/Anil-matcha/awesome-uncensored-ai-models) ⭐ 8 | 🐛 0 | 📅 2026-10-05 — Index of the LLM, image, and video filtering-focused model catalogs
-* [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 8 | 🐛 1 | 📅 2026-10-15 — free curriculum teaching creators how to monetize the models compared in this list
 * [Seedance-2.5-Spicy-API](https://github.com/Anil-matcha/Seedance-2.5-Spicy-API) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-09-28 — Python SDK and MCP server for the relaxed-moderation Seedance 2.5 Spicy tier.
+* [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) ⭐ 5 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-10-08 — generate a finished video from a text prompt end-to-end
 * [Wan-3.0-Spicy-API](https://github.com/Anil-matcha/Wan-3.0-Spicy-API) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-09-28 — Python SDK and MCP server for the relaxed-moderation Wan 3.0 Spicy tier.
-* [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) ⭐ 4 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-10-08 — generate a finished video from a text prompt end-to-end
 * [Gemini-Omni-1.1-Flash-API](https://github.com/Anil-matcha/Gemini-Omni-1.1-Flash-API) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-08-27 — Python SDK and MCP server for Google's newly announced Gemini Omni 1.1 Flash update.
 * [Wan-3.0-Prime-API](https://github.com/Anil-matcha/Wan-3.0-Prime-API) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-09-28 — Python SDK and MCP server for the higher-fidelity Wan 3.0 Prime tier.
 * [awesome-gemini-4-pro](https://github.com/Anil-matcha/awesome-gemini-4-pro) ⭐ 3 | 🐛 0 | 📅 2026-10-28 — frontier Gemini use cases covering multimodal, visual, and agent workflows.
@@ -142,7 +142,7 @@ Post-process generated (or real) footage — upscale, interpolate, denoise.
 
 Don't trust a maker's own demo reel — check independent evals before committing:
 
-* **[VBench / VBench-2.0](https://github.com/Vchitect/VBench) ⭐ 1,835 | 🐛 74 | 🌐 Python | 📅 2026-08-21** — 16-dimension automated quality benchmark
+* **[VBench / VBench-2.0](https://github.com/Vchitect/VBench) ⭐ 1,834 | 🐛 74 | 🌐 Python | 📅 2026-08-21** — 16-dimension automated quality benchmark
 * **Artificial Analysis Video Arena** — Elo-style human-preference leaderboard across commercial + open models
 * **Video-Bench** — human-aligned evaluation suite
 
@@ -169,8 +169,8 @@ PRs welcome. When adding a model, keep the table columns filled — **a row with
 
 ***
 
-*Maintained alongside [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 31,808 | 🐛 45 | 🌐 JavaScript | 📅 2026-10-29. Found it useful? ⭐ the repo.*
+*Maintained alongside [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 31,879 | 🐛 45 | 🌐 JavaScript | 📅 2026-10-29. Found it useful? ⭐ the repo.*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
