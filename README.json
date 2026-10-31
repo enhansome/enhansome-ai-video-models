@@ -19,7 +19,7 @@
             "open_issues": 45,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 31879,
+            "stars": 31935,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 551,
+            "stars": 554,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -481,7 +481,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-minimax-h3-prompts",
-            "stars": 25,
+            "stars": 26,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -565,7 +565,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "ai",
               "ai-agents",
@@ -590,6 +590,44 @@
             ]
           },
           "first_seen": "2026-10-15T18:55:00.188Z"
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-uncensored-ai-models",
+          "description": "Index of the LLM, image, and video filtering-focused model catalogs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Index of source-tracked low-filter, abliterated, and community-reported language, image, and video model catalogs",
+            "homepage": null,
+            "id": 1394685786,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-05T18:57:43Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "awesome-uncensored-ai-models",
+            "stars": 9,
+            "topics": [
+              "ai-model-catalog",
+              "ai-models",
+              "awesome-list",
+              "generative-ai",
+              "image-generation",
+              "language-models",
+              "machine-learning",
+              "model-comparison",
+              "open-source-ai",
+              "open-weight-models",
+              "uncensored-ai",
+              "uncensored-image-models",
+              "uncensored-llm",
+              "uncensored-models",
+              "uncensored-video-models",
+              "video-generation"
+            ]
+          },
+          "first_seen": "2026-09-29T19:50:12.545Z"
         },
         {
           "node_type": "item",
@@ -622,44 +660,6 @@
             ]
           },
           "first_seen": "2026-08-28T23:53:23.461Z"
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-uncensored-ai-models",
-          "description": "Index of the LLM, image, and video filtering-focused model catalogs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Index of source-tracked low-filter, abliterated, and community-reported language, image, and video model catalogs",
-            "homepage": null,
-            "id": 1394685786,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-05T18:57:43Z",
-            "open_issues": 0,
-            "owner": "Anil-matcha",
-            "repo": "awesome-uncensored-ai-models",
-            "stars": 8,
-            "topics": [
-              "ai-model-catalog",
-              "ai-models",
-              "awesome-list",
-              "generative-ai",
-              "image-generation",
-              "language-models",
-              "machine-learning",
-              "model-comparison",
-              "open-source-ai",
-              "open-weight-models",
-              "uncensored-ai",
-              "uncensored-image-models",
-              "uncensored-llm",
-              "uncensored-models",
-              "uncensored-video-models",
-              "video-generation"
-            ]
-          },
-          "first_seen": "2026-09-29T19:50:12.545Z"
         },
         {
           "node_type": "item",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T19:52:12.562Z",
+    "last_updated": "2026-10-31T19:08:04.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
@@ -993,7 +993,7 @@
       "open_issues": 1,
       "owner": "Anil-matcha",
       "repo": "awesome-ai-video-models",
-      "stars": 207,
+      "stars": 208,
       "topics": [
         "ai-video",
         "ai-video-generator",
