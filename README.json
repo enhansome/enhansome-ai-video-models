@@ -19,7 +19,7 @@
             "open_issues": 47,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 32007,
+            "stars": 32083,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 556,
+            "stars": 557,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -313,7 +313,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Kling-4.0-Flash-API",
-            "stars": 58,
+            "stars": 59,
             "topics": [
               "ai-video-generation",
               "api-client",
@@ -439,7 +439,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-video-models",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "ai",
               "ai-models",
@@ -523,7 +523,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "ai",
               "ai-agents",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T19:24:04.035Z",
+    "last_updated": "2026-11-02T23:00:08.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
