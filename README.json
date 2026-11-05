@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T08:58:14Z",
-            "open_issues": 44,
+            "last_commit": "2026-11-05T16:36:29Z",
+            "open_issues": 46,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 32254,
+            "stars": 32535,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 564,
+            "stars": 567,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -103,7 +103,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Seedance-2-API",
-            "stars": 361,
+            "stars": 362,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -145,7 +145,7 @@
             "open_issues": 5,
             "owner": "Anil-matcha",
             "repo": "awesome-seedance-2.5-api-prompts",
-            "stars": 328,
+            "stars": 329,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -439,7 +439,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-video-models",
-            "stars": 31,
+            "stars": 30,
             "topics": [
               "ai",
               "ai-models",
@@ -481,7 +481,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-minimax-h3-prompts",
-            "stars": 26,
+            "stars": 27,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -523,7 +523,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 14,
+            "stars": 16,
             "topics": [
               "ai",
               "ai-agents",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T21:05:21.564Z",
+    "last_updated": "2026-11-05T21:21:10.336Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
@@ -993,7 +993,7 @@
       "open_issues": 1,
       "owner": "Anil-matcha",
       "repo": "awesome-ai-video-models",
-      "stars": 209,
+      "stars": 211,
       "topics": [
         "ai-video",
         "ai-video-generator",
