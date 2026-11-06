@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T16:36:29Z",
-            "open_issues": 46,
+            "last_commit": "2026-11-06T09:32:33Z",
+            "open_issues": 48,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 32535,
+            "stars": 32818,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 567,
+            "stars": 568,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -523,7 +523,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 16,
+            "stars": 18,
             "topics": [
               "ai",
               "ai-agents",
@@ -981,7 +981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:21:10.336Z",
+    "last_updated": "2026-11-06T20:42:48.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
