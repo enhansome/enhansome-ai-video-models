@@ -18,7 +18,7 @@ Unlike other lists that just dump links, this one answers the question developer
 
 ## Related Projects
 
-* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 32,950 | 🐛 49 | 🌐 JavaScript | 📅 2026-11-06 — curated hub of open generative-media tools and pipelines
+* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 33,346 | 🐛 50 | 🌐 JavaScript | 📅 2026-11-08 — curated hub of open generative-media tools and pipelines
 * [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) ⭐ 568 | 🐛 2 | 🌐 Python | 📅 2026-08-02 — multi-scene AI micro-drama pipeline
 * [Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) ⭐ 362 | 🐛 1 | 🌐 Python | 📅 2026-10-06 — Python wrapper for ByteDance Seedance 2
 * [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) ⭐ 329 | 🐛 5 | 📅 2026-10-06 — prompt library for Seedance 2.5
@@ -169,8 +169,8 @@ PRs welcome. When adding a model, keep the table columns filled — **a row with
 
 ***
 
-*Maintained alongside [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 32,950 | 🐛 49 | 🌐 JavaScript | 📅 2026-11-06. Found it useful? ⭐ the repo.*
+*Maintained alongside [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 33,346 | 🐛 50 | 🌐 JavaScript | 📅 2026-11-08. Found it useful? ⭐ the repo.*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
