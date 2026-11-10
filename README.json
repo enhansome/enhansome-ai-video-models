@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T13:59:52Z",
+            "last_commit": "2026-11-10T11:51:53Z",
             "open_issues": 50,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 33659,
+            "stars": 33894,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 571,
+            "stars": 573,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -103,7 +103,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Seedance-2-API",
-            "stars": 362,
+            "stars": 363,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -271,7 +271,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Wan-3.0-API",
-            "stars": 80,
+            "stars": 81,
             "topics": [
               "ai-api",
               "ai-video",
@@ -355,7 +355,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "MiniMax-H3-API",
-            "stars": 56,
+            "stars": 57,
             "topics": [
               "ai-tools",
               "ai-video",
@@ -397,7 +397,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Seedance-3-API",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "ai",
               "ai-api",
@@ -481,7 +481,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-minimax-h3-prompts",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -523,7 +523,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 23,
+            "stars": 24,
             "topics": [
               "ai",
               "ai-agents",
@@ -607,7 +607,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-models",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "ai-model-catalog",
               "ai-models",
@@ -957,6 +957,48 @@
         },
         {
           "node_type": "item",
+          "title": "seedance-motion-control",
+          "description": "compare Seedance 2 and 2.5 motion-control limits and use runnable Muapi examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Seedance 2 and 2.5 Motion Control API comparison and runnable Muapi examples",
+            "homepage": null,
+            "id": 1383522085,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-11-09T18:01:41Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "seedance-motion-control",
+            "stars": 2,
+            "topics": [
+              "ai-video",
+              "ai-video-generation",
+              "api-examples",
+              "async-api",
+              "bytedance",
+              "curl",
+              "generative-ai",
+              "javascript",
+              "motion-control",
+              "muapi",
+              "muapi-api",
+              "performer-recast",
+              "python",
+              "rest-api",
+              "seedance",
+              "seedance-2",
+              "seedance-2-5",
+              "video-editing",
+              "video-generation",
+              "video-to-video"
+            ]
+          },
+          "first_seen": "2026-09-23T18:53:36.547Z"
+        },
+        {
+          "node_type": "item",
           "title": "Video-Utilities-API",
           "description": "compare Muapi video upscaling and video-to-audio post-production endpoints.",
           "children": [],
@@ -996,55 +1038,13 @@
             ]
           },
           "first_seen": "2026-08-28T23:53:23.461Z"
-        },
-        {
-          "node_type": "item",
-          "title": "seedance-motion-control",
-          "description": "compare Seedance 2 and 2.5 motion-control limits and use runnable Muapi examples",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Seedance 2 and 2.5 Motion Control API comparison and runnable Muapi examples",
-            "homepage": null,
-            "id": 1383522085,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-11-09T18:01:41Z",
-            "open_issues": 0,
-            "owner": "Anil-matcha",
-            "repo": "seedance-motion-control",
-            "stars": 1,
-            "topics": [
-              "ai-video",
-              "ai-video-generation",
-              "api-examples",
-              "async-api",
-              "bytedance",
-              "curl",
-              "generative-ai",
-              "javascript",
-              "motion-control",
-              "muapi",
-              "muapi-api",
-              "performer-recast",
-              "python",
-              "rest-api",
-              "seedance",
-              "seedance-2",
-              "seedance-2-5",
-              "video-editing",
-              "video-generation",
-              "video-to-video"
-            ]
-          },
-          "first_seen": "2026-09-23T18:53:36.547Z"
         }
       ],
       "title": "Related Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:42:56.218Z",
+    "last_updated": "2026-11-10T21:13:32.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
