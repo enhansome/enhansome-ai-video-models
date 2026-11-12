@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T03:05:02Z",
+            "last_commit": "2026-11-12T13:35:01Z",
             "open_issues": 50,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 34125,
+            "stars": 34322,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 575,
+            "stars": 576,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -94,12 +94,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Python wrapper for ByteDance's Seedance 2.0 , Seedance 2.5 and Seedance 2 Mini API — Text-to-Video, Image-to-Video, realistic human faces, 1080p, consistent character generation.",
+            "description": "Python wrapper for ByteDance's Seedance 2.0, Seedance 2.5, Seedance 2.5 Flash and Seedance 2 Mini API — Text-to-Video, Image-to-Video, realistic human faces, 1080p, consistent characters.",
             "homepage": "https://muapi.ai/playground/seedance-v2.0-i2v",
             "id": 786160729,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T21:47:20Z",
+            "last_commit": "2026-11-12T12:26:00Z",
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Seedance-2-API",
@@ -116,13 +116,13 @@
               "python-sdk",
               "seedance-2-0",
               "seedance-2-5",
+              "seedance-2-5-flash",
               "seedance-2-api",
               "seedance-2-mini",
               "seedance-2-mini-api",
               "seedance-api",
               "seedance-v2",
               "seedance2",
-              "sora-alternative",
               "text-to-video-api",
               "video-generation"
             ]
@@ -136,12 +136,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Seedance 2.5 API guide, prompts, parameters, and examples for video generation",
+            "description": "Seedance 2.5 and Seedance 2.5 Flash API guide, prompts, parameters, and examples for AI video generation via MuAPI",
             "homepage": "https://muapi.ai/playground/seedance-2.5-text-to-video",
             "id": 656732726,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-06T21:47:20Z",
+            "last_commit": "2026-11-12T12:25:57Z",
             "open_issues": 5,
             "owner": "Anil-matcha",
             "repo": "awesome-seedance-2.5-api-prompts",
@@ -160,10 +160,10 @@
               "python",
               "seedance",
               "seedance-2-5",
+              "seedance-2-5-flash",
               "seedance-2-mini",
               "seedance-api",
               "seedance2",
-              "sora-alternative",
               "text-to-video",
               "video-ai",
               "video-generation"
@@ -523,7 +523,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 26,
+            "stars": 27,
             "topics": [
               "ai",
               "ai-agents",
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:46:16.845Z",
+    "last_updated": "2026-11-12T21:45:54.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.",
@@ -1056,7 +1056,7 @@
       "open_issues": 2,
       "owner": "Anil-matcha",
       "repo": "awesome-ai-video-models",
-      "stars": 212,
+      "stars": 213,
       "topics": [
         "ai-video",
         "ai-video-generator",
