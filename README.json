@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T09:06:14Z",
-            "open_issues": 52,
+            "last_commit": "2026-11-15T11:19:04Z",
+            "open_issues": 54,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 34665,
+            "stars": 34843,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 577,
+            "stars": 578,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -99,7 +99,7 @@
             "id": 786160729,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-12T12:26:00Z",
+            "last_commit": "2026-11-15T18:18:59Z",
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Seedance-2-API",
@@ -141,7 +141,7 @@
             "id": 656732726,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-12T12:25:57Z",
+            "last_commit": "2026-11-15T18:18:57Z",
             "open_issues": 5,
             "owner": "Anil-matcha",
             "repo": "awesome-seedance-2.5-api-prompts",
@@ -439,7 +439,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-video-models",
-            "stars": 32,
+            "stars": 34,
             "topics": [
               "ai-models",
               "ai-video",
@@ -673,7 +673,7 @@
             "id": 1392697561,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-08T21:06:04Z",
+            "last_commit": "2026-11-15T18:19:02Z",
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Seedance-2.5-Spicy-API",
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:46:22.835Z",
+    "last_updated": "2026-11-15T20:12:00.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "AI video generation model comparison: Seedance, Wan, and MiniMax Hailuo, including uncensored and Spicy routes by API, price, speed, and capability.",
@@ -1056,7 +1056,7 @@
       "open_issues": 3,
       "owner": "Anil-matcha",
       "repo": "awesome-ai-video-models",
-      "stars": 215,
+      "stars": 216,
       "topics": [
         "ai-video",
         "ai-video-generator",
