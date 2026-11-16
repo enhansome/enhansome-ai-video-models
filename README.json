@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-15T11:19:04Z",
-            "open_issues": 54,
+            "last_commit": "2026-11-16T14:52:46Z",
+            "open_issues": 23,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 34843,
+            "stars": 35034,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 578,
+            "stars": 581,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -439,7 +439,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-video-models",
-            "stars": 34,
+            "stars": 35,
             "topics": [
               "ai-models",
               "ai-video",
@@ -565,7 +565,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-models",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "ai-model-catalog",
               "ai-models",
@@ -663,6 +663,48 @@
         },
         {
           "node_type": "item",
+          "title": "Text-To-Video-AI",
+          "description": "generate a finished video from a text prompt end-to-end",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Generate video from text using AI",
+            "homepage": "https://www.vadoo.tv/text-to-video-ai",
+            "id": 1409906698,
+            "language": "Jupyter Notebook",
+            "license": "MIT",
+            "last_commit": "2026-10-08T19:17:15Z",
+            "open_issues": 1,
+            "owner": "SamurAIGPT",
+            "repo": "Text-To-Video-AI",
+            "stars": 7,
+            "topics": [
+              "ai-api",
+              "ai-tools",
+              "ai-video",
+              "ai-video-generator",
+              "artificial-intelligence",
+              "generative-ai",
+              "image-to-video",
+              "image-to-video-generation",
+              "kling",
+              "muapi",
+              "nextjs",
+              "open-source",
+              "saas",
+              "sora",
+              "text-to-video",
+              "text-to-video-generation",
+              "veo",
+              "video-diffusion",
+              "video-editing",
+              "video-generation"
+            ]
+          },
+          "first_seen": "2026-10-09T20:00:45.870Z"
+        },
+        {
+          "node_type": "item",
           "title": "Seedance-2.5-Spicy-API",
           "description": "Python SDK and MCP server for the relaxed-moderation Seedance 2.5 Spicy tier.",
           "children": [],
@@ -702,48 +744,6 @@
             ]
           },
           "first_seen": "2026-09-28T21:06:28.874Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Text-To-Video-AI",
-          "description": "generate a finished video from a text prompt end-to-end",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Generate video from text using AI",
-            "homepage": "https://www.vadoo.tv/text-to-video-ai",
-            "id": 1409906698,
-            "language": "Jupyter Notebook",
-            "license": "MIT",
-            "last_commit": "2026-10-08T19:17:15Z",
-            "open_issues": 1,
-            "owner": "SamurAIGPT",
-            "repo": "Text-To-Video-AI",
-            "stars": 6,
-            "topics": [
-              "ai-api",
-              "ai-tools",
-              "ai-video",
-              "ai-video-generator",
-              "artificial-intelligence",
-              "generative-ai",
-              "image-to-video",
-              "image-to-video-generation",
-              "kling",
-              "muapi",
-              "nextjs",
-              "open-source",
-              "saas",
-              "sora",
-              "text-to-video",
-              "text-to-video-generation",
-              "veo",
-              "video-diffusion",
-              "video-editing",
-              "video-generation"
-            ]
-          },
-          "first_seen": "2026-10-09T20:00:45.870Z"
         },
         {
           "node_type": "item",
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T20:12:00.465Z",
+    "last_updated": "2026-11-16T23:39:41.693Z",
     "original_repository_info": {
       "archived": false,
       "description": "AI video generation model comparison: Seedance, Wan, and MiniMax Hailuo, including uncensored and Spicy routes by API, price, speed, and capability.",
