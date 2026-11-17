@@ -15,13 +15,12 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T14:52:46Z",
-            "open_issues": 23,
+            "last_commit": "2026-11-17T10:29:18Z",
+            "open_issues": 24,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 35034,
+            "stars": 35180,
             "topics": [
-              "ai-art-generator",
               "ai-image-generation",
               "ai-video-generation",
               "fal-ai-alternative",
@@ -40,6 +39,7 @@
               "text-to-image",
               "text-to-video",
               "uncensored",
+              "uncensored-ai-image-video-generator",
               "wan-video"
             ]
           },
@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "Open-AI-Micro-Drama-Generator",
-            "stars": 581,
+            "stars": 584,
             "topics": [
               "agentic-ai",
               "ai-drama",
@@ -481,7 +481,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "ai",
               "ai-agents",
@@ -523,7 +523,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-minimax-h3-prompts",
-            "stars": 28,
+            "stars": 29,
             "topics": [
               "ai-video",
               "ai-video-generation",
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:39:41.693Z",
+    "last_updated": "2026-11-17T22:47:43.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "AI video generation model comparison: Seedance, Wan, and MiniMax Hailuo, including uncensored and Spicy routes by API, price, speed, and capability.",
