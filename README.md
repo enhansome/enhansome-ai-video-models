@@ -18,20 +18,20 @@ Unlike other lists that just dump links, this one answers the question developer
 
 ## Related Projects
 
-* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 35,180 | 🐛 24 | 🌐 JavaScript | 📅 2026-11-17 — curated hub of open generative-media tools and pipelines
-* [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) ⭐ 584 | 🐛 2 | 🌐 Python | 📅 2026-08-02 — multi-scene AI micro-drama pipeline
+* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 35,301 | 🐛 24 | 🌐 JavaScript | 📅 2026-11-18 — curated hub of open generative-media tools and pipelines
+* [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) ⭐ 587 | 🐛 2 | 🌐 Python | 📅 2026-08-02 — multi-scene AI micro-drama pipeline
 * [Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) ⭐ 364 | 🐛 1 | 🌐 Python | 📅 2026-11-15 — Python wrapper for ByteDance Seedance 2
-* [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) ⭐ 333 | 🐛 5 | 📅 2026-11-15 — prompt library for Seedance 2.5
-* [Flux-3-Dev-API](https://github.com/Anil-matcha/Flux-3-Dev-API) ⭐ 185 | 🐛 4 | 🌐 Python | 📅 2026-10-19 — Python wrapper for Black Forest Labs' FLUX 3 (Dev variant) — text-to-image, image-to-image, text-to-video, image-to-video
+* [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) ⭐ 334 | 🐛 5 | 📅 2026-11-15 — prompt library for Seedance 2.5
+* [Flux-3-Dev-API](https://github.com/Anil-matcha/Flux-3-Dev-API) ⭐ 184 | 🐛 4 | 🌐 Python | 📅 2026-10-19 — Python wrapper for Black Forest Labs' FLUX 3 (Dev variant) — text-to-image, image-to-image, text-to-video, image-to-video
 * [awesome-flux-3-api-prompts](https://github.com/Anil-matcha/awesome-flux-3-api-prompts) ⭐ 148 | 🐛 2 | 📅 2026-10-19 — FLUX 3 API guide, prompts, and parameters
 * [Wan-3.0-API](https://github.com/Anil-matcha/Wan-3.0-API) ⭐ 82 | 🐛 0 | 🌐 Python | 📅 2026-11-14 — Python SDK and MCP server for Wan 3.0-compatible video generation.
 * [Kling-4-API](https://github.com/Anil-matcha/Kling-4-API) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2026-10-22 — Python client and runnable examples for Kling video generation through MuAPI
 * [MiniMax-H3-API](https://github.com/Anil-matcha/MiniMax-H3-API) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2026-11-11 — Python SDK for MiniMax H3 text-to-video, image-to-video, and first/last-frame video generation.
 * [Seedance-3-API](https://github.com/Anil-matcha/Seedance-3-API) ⭐ 38 | 🐛 0 | 📅 2026-10-06 — companion project for the next Seedance API generation.
 * [awesome-uncensored-ai-video-models](https://github.com/Anil-matcha/awesome-uncensored-ai-video-models) ⭐ 35 | 🐛 1 | 📅 2026-11-14 — Filtering-, access-, and licensing-focused companion catalog for local and hosted video model variants
-* [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 30 | 🐛 1 | 📅 2026-10-15 — free curriculum teaching creators how to monetize the models compared in this list
-* [awesome-minimax-h3-prompts](https://github.com/Anil-matcha/awesome-minimax-h3-prompts) ⭐ 29 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15 — Prompt gallery with runnable MiniMax H3 video examples.
-* [awesome-uncensored-ai-models](https://github.com/Anil-matcha/awesome-uncensored-ai-models) ⭐ 14 | 🐛 1 | 📅 2026-10-05 — Index of the LLM, image, and video filtering-focused model catalogs
+* [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 31 | 🐛 1 | 📅 2026-10-15 — free curriculum teaching creators how to monetize the models compared in this list
+* [awesome-minimax-h3-prompts](https://github.com/Anil-matcha/awesome-minimax-h3-prompts) ⭐ 30 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15 — Prompt gallery with runnable MiniMax H3 video examples.
+* [awesome-uncensored-ai-models](https://github.com/Anil-matcha/awesome-uncensored-ai-models) ⭐ 15 | 🐛 1 | 📅 2026-10-05 — Index of the LLM, image, and video filtering-focused model catalogs
 * [Veo-4-API](https://github.com/Anil-matcha/Veo-4-API) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-08-02 — Python wrapper for Google Veo 4
 * [wan-3.0-comfyui](https://github.com/Anil-matcha/wan-3.0-comfyui) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-10-15 — ComfyUI custom nodes for Wan 3.0 text-to-image, image edit, text-to-video, and image-to-video via MuAPI.
 * [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) ⭐ 7 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-10-08 — generate a finished video from a text prompt end-to-end
@@ -142,7 +142,7 @@ Post-process generated (or real) footage — upscale, interpolate, denoise.
 
 Don't trust a maker's own demo reel — check independent evals before committing:
 
-* **[VBench / VBench-2.0](https://github.com/Vchitect/VBench) ⭐ 1,848 | 🐛 75 | 🌐 Python | 📅 2026-08-21** — 16-dimension automated quality benchmark
+* **[VBench / VBench-2.0](https://github.com/Vchitect/VBench) ⭐ 1,849 | 🐛 75 | 🌐 Python | 📅 2026-08-21** — 16-dimension automated quality benchmark
 * **Artificial Analysis Video Arena** — Elo-style human-preference leaderboard across commercial + open models
 * **Video-Bench** — human-aligned evaluation suite
 
@@ -169,8 +169,8 @@ PRs welcome. When adding a model, keep the table columns filled — **a row with
 
 ***
 
-*Maintained alongside [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 35,180 | 🐛 24 | 🌐 JavaScript | 📅 2026-11-17. Found it useful? ⭐ the repo.*
+*Maintained alongside [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 35,301 | 🐛 24 | 🌐 JavaScript | 📅 2026-11-18. Found it useful? ⭐ the repo.*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
